@@ -58,7 +58,7 @@ def is_single_line_function(code):
 
 if __name__ == '__main__':
 
-    tokenizer_name = '../../../models/CodeGPT-small-java-adaptedGPT2'
+    tokenizer_name = '../../../models/codegpt'
     _, _, tokenizer_class = MODEL_CLASSES['gpt2']
     tokenizer_gpt2 = tokenizer_class.from_pretrained(tokenizer_name, do_lower_case=True)
 
@@ -70,11 +70,11 @@ if __name__ == '__main__':
     _, _, tokenizer_class = MODEL_CLASSES['roberta']
     tokenizer_roberta = tokenizer_class.from_pretrained(tokenizer_name, do_lower_case=True)
 
-    file_name_train = './raw_dataset/train.jsonl'
+    file_name_train = './primevul_train.jsonl'
 
-    file_name_valid = './raw_dataset/valid.jsonl'
+    file_name_valid = './primevul_valid.jsonl'
 
-    file_name_test = './raw_dataset/test.jsonl'
+    file_name_test = './primevul_test.jsonl'
 
     ls = [file_name_train, file_name_valid, file_name_test]
 

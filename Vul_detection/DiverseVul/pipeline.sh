@@ -12,6 +12,8 @@ cd ./codet5
 
 bash run_codet5_base.sh
 
+bash run_codet5_base_multi.sh
+
 # (3) Knowledge Distillation
 
 cd ./Attacks

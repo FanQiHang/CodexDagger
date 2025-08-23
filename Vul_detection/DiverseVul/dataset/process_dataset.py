@@ -56,7 +56,7 @@ def is_single_line_function(code):
 
 if __name__ == '__main__':
 
-    tokenizer_name = '../../../models/CodeGPT-small-java-adaptedGPT2'
+    tokenizer_name = '../../../models/codegpt'
     _, _, tokenizer_class = MODEL_CLASSES['gpt2']
     tokenizer_gpt2 = tokenizer_class.from_pretrained(tokenizer_name, do_lower_case=True)
 
