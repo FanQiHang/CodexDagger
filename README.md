@@ -1,4 +1,4 @@
-# CodexDagger
+# Code
 
 The attack for CodeT5-base is detailed in **./Vul_detection/DiverseVul/pipeline.sh**, which includes methods such as CodexDagger (proxy model: CodeT5-base-M), Random, Textfooler, and LSH.
 
