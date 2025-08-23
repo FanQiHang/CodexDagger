@@ -1,0 +1,500 @@
+\n int wE1rT6yU8i = 7; \n  if (wE1rT6yU8i > 5) { \n  wE1rT6yU8i += 3; \n  } \n  else { \n  wE1rT6yU8i -= 3; \n } \n
+\n int zX8cV9bN0m = 1; \n  try { \n  if (zX8cV9bN0m == 1) throw 1; \n  } \n  catch (int e) { \n  zX8cV9bN0m = 0; \n } \n
+\n int qW3eRtY7U = 0; \n  while (qW3eRtY7U < 10) { \n  qW3eRtY7U++; \n  if (qW3eRtY7U % 2 == 0) continue; \n } \n
+\n int sD9fG0hJ2k = 15; \n  try { \n  if (sD9fG0hJ2k > 10) throw 2; \n  } \n  catch (int e) { \n  sD9fG0hJ2k = 10; \n } \n
+\n int jYdArMvToAZe = 10; \n  if (jYdArMvToAZe > 5) { \n  jYdArMvToAZe += 2; \n  } \n  else { \n  jYdArMvToAZe -= 2; \n } \n
+\n int lK6jH8gF5d = 100; \n  while (lK6jH8gF5d > 0) { \n  lK6jH8gF5d -= 10; \n  if (lK6jH8gF5d == 50) break; \n } \n
+\n int vF2gH7jK9l = 25; \n  while (vF2gH7jK9l < 30) { \n  vF2gH7jK9l++; \n  if (vF2gH7jK9l == 28) continue; \n  } \n
+\n int aS1dF2gH3j = 5; \n  for (int i = 0; \n  i < aS1dF2gH3j; \n  i++) { \n  if (i == 3) break; \n  aS1dF2gH3j--; \n } \n
+\n int mN4bV6nC8x = 3; \n  for (int k = 0; \n  k < mN4bV6nC8x; \n  k++) { \n  if (k == 1) continue; \n  mN4bV6nC8x++; \n } \n
+\n int pO2iU7yT9r = 20; \n  if (pO2iU7yT9r > 15) { \n  pO2iU7yT9r /= 2; \n  } \n  else if (pO2iU7yT9r < 10) { \n  pO2iU7yT9r *= 2; \n } \n
+\n int xS4dF5gH6j = 5; \n  if (xS4dF5gH6j > 3) { \n  xS4dF5gH6j += 2; \n  } \n  else { \n  xS4dF5gH6j -= 2; \n } \n
+\n int qW3eR4tY7u = 0; \n  while (qW3eR4tY7u < 10) { \n  qW3eR4tY7u++; \n  if (qW3eR4tY7u == 5) break; \n } \n
+\n int cV2bN3mB4v = 0; \n  while (cV2bN3mB4v < 5) { \n  cV2bN3mB4v++; \n  if (cV2bN3mB4v == 3) break; \n  } \n
+\n int pO0iU9yT6r = 1; \n  try { \n  pO0iU9yT6r = 2 / pO0iU9yT6r; \n  } \n  catch (int e) { \n  pO0iU9yT6r = 0; \n } \n
+\n int vF7gH8jK9l = 1; \n  try { \n  vF7gH8jK9l = 3 / vF7gH8jK9l; \n  } \n  catch (int e) { \n  vF7gH8jK9l = -1; \n } \n
+\n int lK8jU7hN6g = 0; \n  while (lK8jU7hN6g < 10) { \n  lK8jU7hN6g++; \n  if (lK8jU7hN6g % 2 == 0) continue; \n } \n
+\n int aS1dF2gH3j = 5; \n  for (int zX9cC8vB7n = 0; \n  zX9cC8vB7n < aS1dF2gH3j; \n  zX9cC8vB7n++) { \n  aS1dF2gH3j--; \n } \n
+\n int wE2rT3yU4i = 10; \n  for (int sD5fG6hJ7k = 0; \n  sD5fG6hJ7k < wE2rT3yU4i; \n  sD5fG6hJ7k++) { \n  wE2rT3yU4i--; \n } \n
+\n int mN1bV2nC3x = 10; \n  if (mN1bV2nC3x > 5) { \n  mN1bV2nC3x *= 2; \n  } \n  else if (mN1bV2nC3x < 5) { \n  mN1bV2nC3x /= 2; \n } \n
+\n int lK9jH6gF5d = 30; \n  while (lK9jH6gF5d > 0) { \n  lK9jH6gF5d--; \n  if (lK9jH6gF5d % 5 == 0) break; \n } \n
+\n int qW3eR4tY7u = 0; \n  while (qW3eR4tY7u < 10) { \n  qW3eR4tY7u++; \n  if (qW3eR4tY7u % 2 == 0) continue; \n } \n
+\n int wE2rT3yU4i = 70; \n  while (wE2rT3yU4i > 65) { \n  wE2rT3yU4i--; \n  if (wE2rT3yU4i % 2 == 0) continue; \n  } \n
+\n int aS1dF2gH3j = 5; \n  for (int zX9cCvBnM2 = 0; \n  zX9cCvBnM2 < aS1dF2gH3j; \n  zX9cCvBnM2++) { \n  aS1dF2gH3j *= 2; \n } \n
+\n int vF7gT5hR4j = 40; \n  for (int nB6vG5bH4n = 0; \n  nB6vG5bH4n < vF7gT5hR4j; \n  nB6vG5bH4n++) { \n  vF7gT5hR4j -= 1; \n } \n
+\n int pO0iU7yT6r = 1; \n  try { \n  if (pO0iU7yT6r == 1) throw new Exception(); \n  } \n  catch (Exception e) { \n  pO0iU7yT6r = 0; \n } \n
+\n int mN8bV5nC4x = 20; \n  if (mN8bV5nC4x > 15) { \n  mN8bV5nC4x /= 2; \n  } \n  else if (mN8bV5nC4x < 10) { \n  mN8bV5nC4x *= 2; \n } \n
+\n int cV3bN4mB5v = 60; \n  if (cV3bN4mB5v > 55) { \n  cV3bN4mB5v -= 5; \n  } \n  else if (cV3bN4mB5v < 50) { \n  cV3bN4mB5v += 5; \n } \n
+\n int xS2dF3gH4j = 50; \n  try { \n  if (xS2dF3gH4j > 45) throw new Exception(); \n  } \n  catch (Exception e) { \n  xS2dF3gH4j = 45; \n } \n
+\n int wE2rT3yU4i = 15; \n  if (wE2rT3yU4i > 10) { \n  wE2rT3yU4i -= 5; \n  } \n  else { \n  wE2rT3yU4i += 5; \n } \n
+\n int cV3bN4mZ5x = 10; \n  try { \n  cV3bN4mZ5x = 10 / 0; \n  } \n  catch (Exception e) { \n  cV3bN4mZ5x = 0; \n } \n
+\n int pO0iU9yT6r = 1; \n  try { \n  pO0iU9yT6r = 1 / 0; \n  } \n  catch (Exception e) { \n  pO0iU9yT6r = -1; \n } \n
+\n int lK8jH7gF6d = 20; \n  while (lK8jH7gF6d > 10) { \n  lK8jH7gF6d--; \n  if (lK8jH7gF6d == 15) break; \n } \n
+\n int vF5gH6jK7l = 7; \n  while (vF5gH6jK7l < 20) { \n  vF5gH6jK7l++; \n  if (vF5gH6jK7l % 3 == 0) continue; \n  } \n
+\n int xS2dF3gH4j = 3; \n  for (int qA1zS2x = 0; \n  qA1zS2x < xS2dF3gH4j; \n  qA1zS2x++) { \n  xS2dF3gH4j += qA1zS2x; \n } \n
+\n int aS1dF2gH3j = 5; \n  for (int zX9cC8vB7n = 0; \n  zX9cC8vB7n < aS1dF2gH3j; \n  zX9cC8vB7n++) { \n  aS1dF2gH3j *= 2; \n } \n
+\n int mN1bV2nC3m = 0; \n  if (mN1bV2nC3m == 0) { \n  mN1bV2nC3m = 1; \n  } \n  else if (mN1bV2nC3m == 1) { \n  mN1bV2nC3m = 0; \n } \n
+\n int cV3bN4mC5x = 25; \n  if (cV3bN4mC5x > 20) { \n  cV3bN4mC5x *= 2; \n  } \n  else { \n  cV3bN4mC5x /= 2; \n } \n
+\n int pO0iU9yT6r = 1; \n  try { \n  pO0iU9yT6r = 1 / pO0iU9yT6r; \n  } \n  catch (Exception e) { \n  pO0iU9yT6r = 0; \n } \n
+\n int lK8jH9gF6d = 100; \n  while (lK8jH9gF6d > 0) { \n  lK8jH9gF6d /= 2; \n  if (lK8jH9gF6d % 2 != 0) break; \n } \n
+\n int wE1qW2eR3t = 50; \n  while (wE1qW2eR3t > 0) { \n  wE1qW2eR3t--; \n  if (wE1qW2eR3t % 5 == 0) continue; \n  } \n
+\n int xS2dF3gH4j = 15; \n  try { \n  xS2dF3gH4j = 15 / xS2dF3gH4j; \n  } \n  catch (Exception e) { \n  xS2dF3gH4j = -1; \n } \n
+\n int uJ7iH6gF5d = 30; \n  for (int oP4iU3yT2r = 0; \n  oP4iU3yT2r < uJ7iH6gF5d; \n  oP4iU3yT2r++) { \n  uJ7iH6gF5d -= 1; \n } \n
+\n int mN1bV2nC3m = 20; \n  if (mN1bV2nC3m > 15) { \n  mN1bV2nC3m -= 5; \n  } \n  else if (mN1bV2nC3m < 10) { \n  mN1bV2nC3m += 5; \n } \n
+\n int jYdArMvToAZe = 0; \n while (jYdArMvToAZe < 20) { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe == 15) break; \n  else jYdArMvToAZe += 3; \n } \n
+\n int jYdArMvToAZe = 0; \n while (jYdArMvToAZe > 0) { \n  jYdArMvToAZe--; \n  if (jYdArMvToAZe % 2 == 0) continue; \n  else jYdArMvToAZe *= 2; \n } \n
+\n for (int jYdArMvToAZe = 10; \n  jYdArMvToAZe > 0; \n  jYdArMvToAZe--) { \n  if (jYdArMvToAZe % 3 == 0) break; \n  else jYdArMvToAZe -= 2; \n  } \n
+\n for (int jYdArMvToAZe = 0; \n  jYdArMvToAZe < 10; \n  jYdArMvToAZe++) { \n  if (jYdArMvToAZe % 2 == 0) continue; \n  else jYdArMvToAZe *= 2; \n } \n
+\n do { \n  jYdArMvToAZe /= 2; \n  } \n  while (jYdArMvToAZe > 1); \n
+\n if (jYdArMvToAZe == 0) { \n  jYdArMvToAZe = 1; \n  } \n  else { \n  jYdArMvToAZe = 0; \n } \n
+\n for (int jYdArMvToAZe = 0; \n  jYdArMvToAZe < 5; \n  jYdArMvToAZe++) { \n  for (int jYdArMvToAZe2 = 0; \n  jYdArMvToAZe2 < 5; \n  jYdArMvToAZe2++) { \n  jYdArMvToAZe += jYdArMvToAZe2; \n  } \n } \n
+\n int jYdArMvToAZe = 0; \n do { \n  jYdArMvToAZe *= 2; \n  } \n  while (jYdArMvToAZe < 100); \n
+\n int jYdArMvToAZe = 0; \n if (jYdArMvToAZe > 0) { \n  jYdArMvToAZe = -jYdArMvToAZe; \n  } \n  else if (jYdArMvToAZe < 0) { \n  jYdArMvToAZe = -jYdArMvToAZe; \n  } \n  else { \n  jYdArMvToAZe = 1; \n } \n
+\n int jYdArMvToAZe = 1; \n  for (int i = 0; \n  i < 5; \n  i++) { \n  jYdArMvToAZe *= 2; \n  if (jYdArMvToAZe > 10) break; \n } \n
+\n int jYdArMvToAZe = 15; \n  while (jYdArMvToAZe > 10) { \n  jYdArMvToAZe--; \n  if (jYdArMvToAZe == 12) continue; \n } \n
+\n int jYdArMvToAZe = 3; \n  for (int i = 5; \n  i > 0; \n  i--) { \n  jYdArMvToAZe += i; \n  if (jYdArMvToAZe > 10) break; \n } \n
+\n int jYdArMvToAZe = 0; \n  while (jYdArMvToAZe < 10) { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe % 2 == 0) continue; \n  else break; \n } \n
+\n int jYdArMvToAZe = 5; \n  try { \n  if (jYdArMvToAZe == 5) throw new Exception(); \n  } \n  catch (Exception e) { \n  jYdArMvToAZe = 0; \n } \n
+\n int jYdArMvToAZe = 6; \n  while (jYdArMvToAZe < 10) { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe % 2 != 0) continue; \n  else break; \n  } \n
+\n int jYdArMvToAZe = 7; \n  try { \n  if (jYdArMvToAZe != 7) throw new Exception(); \n  } \n  catch (Exception e) { \n  jYdArMvToAZe = -1; \n } \n
+\n int jYdArMvToAZe = 4; \n  if (jYdArMvToAZe < 5) { \n  jYdArMvToAZe = jYdArMvToAZe + 1; \n  } \n  else { \n  jYdArMvToAZe = jYdArMvToAZe - 1; \n } \n
+\n int jYdArMvToAZe = 10; \n  if (jYdArMvToAZe > 5) { \n  jYdArMvToAZe = jYdArMvToAZe - 5; \n  } \n  else { \n  jYdArMvToAZe = jYdArMvToAZe + 5; \n } \n
+\n int jYdArMvToAZe = 2; \n  if (jYdArMvToAZe == 2) { \n  jYdArMvToAZe = jYdArMvToAZe * 2; \n  } \n  else { \n  jYdArMvToAZe = jYdArMvToAZe / 2; \n } \n
+\n int pQ2wErT5yUiO = 0; \n if (pQ2wErT5yUiO == 0) { \n  pQ2wErT5yUiO = 1; \n  } \n  else { \n  pQ2wErT5yUiO = 0; \n } \n
+\n for (int kL9qXn3RtG = 0; \n  kL9qXn3RtG < 10; \n  kL9qXn3RtG++) { \n  kL9qXn3RtG *= 2; \n } \n
+\n try { \n  int zXcVbNmLkJh = functionCall(); \n  } \n  catch (Exception e) { \n  zXcVbNmLkJh = -1; \n } \n
+\n try { \n  int sDfGhJkLzX = anotherFunction(); \n  } \n  catch (Exception e) { \n  sDfGhJkLzX = 0; \n } \n
+\n int qWeRtYuF1IiO = 0; \n while (qWeRtYuF1IiO > 5) { \n  qWeRtYuF1IiO -= 2; \n  if (qWeRtYuF1IiO < 3) { \n  qWeRtYuF1IiO *= 2; \n  } \n } \n
+\n int mN6fGhJk1LpO = 0; \n while (mN6fGhJk1LpO > 0) { \n  mN6fGhJk1LpO--; \n  if (mN6fGhJk1LpO % 2 == 0) { \n  mN6fGhJk1LpO += 3; \n  } \n } \n
+\n int rT6yUiOpK9lIj = 0; \n if (rT6yUiOpK9lIj == 1) { \n  rT6yUiOpK9lIj = 2; \n  } \n  else if (rT6yUiOpK9lIj == 2) { \n  rT6yUiOpK9lIj = 1; \n } \n
+\n for (int aSdFgHjKlZ = 10; \n  aSdFgHjKlZ > 0; \n  aSdFgHjKlZ--) { \n  if (aSdFgHjKlZ % 2 == 0) { \n  aSdFgHjKlZ += 5; \n  } \n } \n
+\n for (int tGhJkLzXcV = 0; \n  tGhJkLzXcV < 20; \n  tGhJkLzXcV += 2) { \n  if (tGhJkLzXcV > 10) { \n  tGhJkLzXcV -= 5; \n  } \n  } \n
+\n int vF2gH3jK4l = 2; \n  if (vF2gH3jK4l > 1) { \n  vF2gH3jK4l *= 2; \n  } \n  else { \n  vF2gH3jK4l /= 2; \n } \n
+\n int lK8jU7hN6g = 10; \n  while (lK8jU7hN6g > 0) { \n  lK8jU7hN6g--; \n  if (lK8jU7hN6g == 5) break; \n } \n
+\n int qW3eR4tY6u = 0; \n  while (qW3eR4tY6u < 10) { \n  qW3eR4tY6u++; \n  if (qW3eR4tY6u % 2 == 0) continue; \n } \n
+\n int pO0iU9yT7r = 1; \n  try { \n  pO0iU9yT7r = func(pO0iU9yT7r); \n  } \n  catch (Exception e) { \n  pO0iU9yT7r = -1; \n } \n
+\n int uG1hJ2kL3m = 3; \n  while (uG1hJ2kL3m < 10) { \n  uG1hJ2kL3m++; \n  if (uG1hJ2kL3m % 3 == 0) continue; \n  } \n
+\n int wE3rT4yU5i = 0; \n  try { \n  wE3rT4yU5i = anotherFunc(wE3rT4yU5i); \n  } \n  catch (Exception e) { \n  wE3rT4yU5i = 99; \n } \n
+\n int aS1dF2gH3j = 5; \n  for (int zX9cC8vB7n = 0; \n  zX9cC8vB7n < aS1dF2gH3j; \n  zX9cC8vB7n++) { \n  aS1dF2gH3j *= 2; \n } \n
+\n int xS2dF3gH4j = 1; \n  for (int cV6bN7mZ8n = 0; \n  cV6bN7mZ8n < xS2dF3gH4j; \n  cV6bN7mZ8n++) { \n  xS2dF3gH4j += cV6bN7mZ8n; \n } \n
+\n int mN1bV2nC3m = 0; \n  if (mN1bV2nC3m == 0) { \n  mN1bV2nC3m = 1; \n  } \n  else if (mN1bV2nC3m == 1) { \n  mN1bV2nC3m = 2; \n  } \n  else { \n  mN1bV2nC3m = 0; \n } \n
+\n int lK8jU7hN6g = 100; \n  while (lK8jU7hN6g > 0) { \n  lK8jU7hN6g--; \n  if (lK8jU7hN6g % 10 == 0) break; \n } \n
+\n int qW3eR4tY7u = 0; \n  while (qW3eR4tY7u < 10) { \n  qW3eR4tY7u++; \n  if (qW3eR4tY7u % 2 == 0) continue; \n } \n
+\n int uJ7yH6tG5f = 60; \n  while (uJ7yH6tG5f > 50) { \n  uJ7yH6tG5f--; \n  if (uJ7yH6tG5f % 5 == 0) continue; \n  } \n
+\n int oP0iU7yT6r = 1; \n  try { \n  if (oP0iU7yT6r == 1) throw new Exception(); \n  } \n  catch (Exception e) { \n  oP0iU7yT6r = 0; \n } \n
+\n int mN6bV5cN4d = 20; \n  if (mN6bV5cN4d > 15) { \n  mN6bV5cN4d /= 2; \n  } \n  else if (mN6bV5cN4d < 10) { \n  mN6bV5cN4d *= 2; \n } \n
+\n int xC9vB8nM6z = 40; \n  try { \n  if (xC9vB8nM6z > 30) throw new Exception(); \n  } \n  catch (Exception e) { \n  xC9vB8nM6z = 20; \n } \n
+\n int rF2gH3jK4l = 50; \n  if (rF2gH3jK4l > 45) { \n  rF2gH3jK4l -= 5; \n  } \n  else if (rF2gH3jK4l < 40) { \n  rF2gH3jK4l += 5; \n } \n
+\n int pO9iU7yT6r = 30; \n  for (int wS1dF2gH3j = 0; \n  wS1dF2gH3j < pO9iU7yT6r; \n  wS1dF2gH3j += 5) { \n  pO9iU7yT6r -= 2; \n } \n
+\n int jYdArMvToAZe = 10; \n  while (jYdArMvToAZe > 0) { \n  jYdArMvToAZe--; \n  if (jYdArMvToAZe == 5) break; \n } \n
+\n int jYdArMvToAZe = 20; \n  if (jYdArMvToAZe % 2 == 0) { \n  jYdArMvToAZe /= 2; \n  } \n  else { \n  jYdArMvToAZe *= 3; \n } \n
+\n int jYdArMvToAZe = 60; \n  if (jYdArMvToAZe % 3 == 0) { \n  jYdArMvToAZe /= 3; \n  } \n  else { \n  jYdArMvToAZe *= 2; \n } \n
+\n int jYdArMvToAZe = 40; \n  while (jYdArMvToAZe < 50) { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe == 45) continue; \n } \n
+\n int jYdArMvToAZe = 50; \n  for (int i = 0; \n  i < jYdArMvToAZe; \n  i++) { \n  if (i > 25) break; \n  jYdArMvToAZe -= i; \n } \n
+\n int jYdArMvToAZe = 0; \n  for (int i = 0; \n  i < 10; \n  i++) { \n  jYdArMvToAZe += i; \n  if (jYdArMvToAZe > 15) continue; \n } \n
+\n int jYdArMvToAZe = 15; \n  try { \n  if (jYdArMvToAZe > 10) throw new Exception(); \n  } \n  catch (Exception e) { \n  jYdArMvToAZe = 0; \n } \n
+\n int jYdArMvToAZe = 70; \n  try { \n  if (jYdArMvToAZe > 65) throw new Exception(); \n  } \n  catch (Exception e) { \n  jYdArMvToAZe = 65; \n  } \n
+\n int jYdArMvToAZe = 5; \n  if (jYdArMvToAZe > 3) { \n  jYdArMvToAZe = jYdArMvToAZe * 2; \n  } \n  else { \n  jYdArMvToAZe = jYdArMvToAZe - 1; \n } \n
+\n int jYdArMvToAZe = 30; \n  if (jYdArMvToAZe < 25) { \n  jYdArMvToAZe++; \n  } \n  else if (jYdArMvToAZe > 35) { \n  jYdArMvToAZe--; \n  } \n  else { \n  jYdArMvToAZe = 25; \n } \n
+\n int jYdArMvToAZe = 0; \n  while (jYdArMvToAZe < 10) { \n  jYdArMvToAZe++; \n } \n
+\n int jYdArMvToAZe = 15; \n  while (jYdArMvToAZe > 10) { \n  jYdArMvToAZe--; \n } \n
+\n int jYdArMvToAZe = 8; \n  while (jYdArMvToAZe < 20) { \n  jYdArMvToAZe *= 2; \n  } \n
+\n int jYdArMvToAZe = 3; \n  for (int i = 0; \n  i < 5; \n  i++) { \n  jYdArMvToAZe += i; \n } \n
+\n int jYdArMvToAZe = 5; \n  for (int i = 0; \n  i < jYdArMvToAZe; \n  i++) { \n  jYdArMvToAZe *= 2; \n } \n
+\n int jYdArMvToAZe = 12; \n  if (jYdArMvToAZe < 10) { \n  jYdArMvToAZe += 5; \n  } \n  else { \n  jYdArMvToAZe -= 5; \n } \n
+\n int jYdArMvToAZe = 20; \n  if (jYdArMvToAZe % 2 == 0) { \n  jYdArMvToAZe /= 2; \n  } \n  else { \n  jYdArMvToAZe *= 2; \n } \n
+\n int jYdArMvToAZe = 1; \n  try { \n  jYdArMvToAZe = 1 / jYdArMvToAZe; \n  } \n  catch (Exception e) { \n  jYdArMvToAZe = 0; \n } \n
+\n int jYdArMvToAZe = 7; \n  try { \n  jYdArMvToAZe = jYdArMvToAZe / (jYdArMvToAZe - 7); \n  } \n  catch (Exception e) { \n  jYdArMvToAZe = -1; \n } \n
+\n for (int jYdArMvToAZe = 0; \n  jYdArMvToAZe < 10; \n  jYdArMvToAZe++) { \n  if (jYdArMvToAZe % 2 == 0) { \n  jYdArMvToAZe *= 2; \n  } \n } \n
+\n int jYdArMvToAZe = 20; \n  while (jYdArMvToAZe > 0) { \n  jYdArMvToAZe--; \n  if (jYdArMvToAZe % 5 == 0) { \n  jYdArMvToAZe /= 2; \n  } \n } \n
+\n int jYdArMvToAZe = 50; \n  while (jYdArMvToAZe > 40) { \n  jYdArMvToAZe--; \n  if (jYdArMvToAZe % 2 == 0) { \n  jYdArMvToAZe /= 2; \n  } \n } \n
+\n int jYdArMvToAZe = 40; \n  for (int jYdArMvToAZe2 = 0; \n  jYdArMvToAZe2 < jYdArMvToAZe; \n  jYdArMvToAZe2++) { \n  if (jYdArMvToAZe2 % 4 == 0) { \n  jYdArMvToAZe2 += 3; \n  } \n } \n
+\n int jYdArMvToAZe = 80; \n  for (int jYdArMvToAZe2 = 0; \n  jYdArMvToAZe2 < jYdArMvToAZe; \n  jYdArMvToAZe2++) { \n  if (jYdArMvToAZe2 % 8 == 0) { \n  jYdArMvToAZe2 += 5; \n  } \n  } \n
+\n int jYdArMvToAZe = 15; \n  do { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe % 3 == 0) { \n  jYdArMvToAZe += 5; \n  } \n  } \n  while (jYdArMvToAZe < 20); \n
+\n int jYdArMvToAZe = 30; \n  if (jYdArMvToAZe > 25) { \n  jYdArMvToAZe -= 5; \n  } \n  else if (jYdArMvToAZe < 20) { \n  jYdArMvToAZe += 10; \n  } \n  else { \n  jYdArMvToAZe *= 2; \n } \n
+\n int jYdArMvToAZe = 60; \n  do { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe % 6 == 0) { \n  jYdArMvToAZe += 10; \n  } \n  } \n  while (jYdArMvToAZe < 70); \n
+\n int jYdArMvToAZe = 70; \n  if (jYdArMvToAZe > 65) { \n  jYdArMvToAZe -= 10; \n  } \n  else if (jYdArMvToAZe < 60) { \n  jYdArMvToAZe += 20; \n  } \n  else { \n  jYdArMvToAZe *= 3; \n } \n
+\n try { \n  int mNbVcX1zW = 10 / 0; \n  } \n  catch (Exception e) { \n  int qW3eRtY7uI = 0; \n } \n
+\n if (int kLjHgF6dC = 15) { \n  if (kLjHgF6dC > 10) { \n  int zXcVbNm1qW = kLjHgF6dC - 5; \n  } \n } \n
+\n while (int oP9iU7yT = 10) { \n  if (oP9iU7yT > 0) { \n  int mNbVcX1zW = oP9iU7yT--; \n  } \n  else { \n  break; \n  } \n } \n
+\n while (int pOiUyT6rE = 5) { \n  if (pOiUyT6rE > 0) { \n  int aSdFgHjKl = pOiUyT6rE--; \n  } \n  else { \n  break; \n  } \n } \n
+\n for (int zXcVbNm1qW = 0; \n  zXcVbNm1qW < 10; \n  zXcVbNm1qW++) { \n  if (zXcVbNm1qW % 2 == 0) { \n  int oP9iU7yT = zXcVbNm1qW + 1; \n  } \n } \n
+\n try { \n  int pOiUyT6rE = 5; \n  if (pOiUyT6rE > 0) { \n  int kLjHgF6dC = pOiUyT6rE / 0; \n  } \n  } \n  catch (Exception e) { \n  int aSdFgHjKl = 0; \n } \n
+\n int jYdArMvToAZe = 10; \n  if (jYdArMvToAZe > 5) { \n  int qW3eRtY7uI = jYdArMvToAZe * 2; \n  } \n  else { \n  int aSdFgHjKl = jYdArMvToAZe / 2; \n } \n
+\n if (int zXcVbNm1qW = 20) { \n  if (zXcVbNm1qW > 15) { \n  int oP9iU7yT = zXcVbNm1qW - 10; \n  } \n  else { \n  int mNbVcX1zW = zXcVbNm1qW + 5; \n  } \n } \n
+\n for (int aSdFgHjKl = 0; \n  aSdFgHjKl < 5; \n  aSdFgHjKl++) { \n  for (int zXcVbNm1qW = 0; \n  zXcVbNm1qW < 3; \n  zXcVbNm1qW++) { \n  int qW3eRtY7uI = aSdFgHjKl * zXcVbNm1qW; \n  } \n } \n
+\n for (int qW3eRtY7uI = 0; \n  qW3eRtY7uI < 10; \n  qW3eRtY7uI++) { \n  for (int aSdFgHjKl = 0; \n  aSdFgHjKl < 5; \n  aSdFgHjKl++) { \n  int zXcVbNm1qW = qW3eRtY7uI + aSdFgHjKl; \n  } \n  } \n
+\n int xYzAbCdEfGhI = 30; \n  for (int i = 0; \n  i < xYzAbCdEfGhI; \n  i++) { \n  if (i % 3 == 0) break; \n } \n
+\n int mNoPqRsTuVwX = 70; \n  for (int j = 0; \n  j < mNoPqRsTuVwX; \n  j++) { \n  if (j % 5 == 0) continue; \n } \n
+\n int nOpQrStUvWxY = 50; \n  if (nOpQrStUvWxY < 60) { \n  nOpQrStUvWxY *= 2; \n  } \n  else { \n  nOpQrStUvWxY /= 2; \n } \n
+\n int iUhYgTfReWq = 90; \n  if (iUhYgTfReWq < 100) { \n  iUhYgTfReWq += 5; \n  } \n  else { \n  iUhYgTfReWq -= 5; \n } \n
+\n int zXyWvUtSrQ = 60; \n  while (zXyWvUtSrQ > 50) { \n  zXyWvUtSrQ--; \n  if (zXyWvUtSrQ == 55) break; \n } \n
+\n int kLmNoPqRsTuV = 20; \n  while (kLmNoPqRsTuV > 0) { \n  kLmNoPqRsTuV--; \n  if (kLmNoPqRsTuV % 2 == 0) continue; \n } \n
+\n int hGfDsAqWzXe = 100; \n  while (hGfDsAqWzXe > 90) { \n  hGfDsAqWzXe--; \n  if (hGfDsAqWzXe == 95) continue; \n  } \n
+\n int aBcDeFgHiJkL = 40; \n  try { \n  if (aBcDeFgHiJkL > 35) throw new Exception(); \n  } \n  catch (Exception e) { \n  aBcDeFgHiJkL = 0; \n } \n
+\n int lKjHgFdSaQw = 80; \n  try { \n  if (lKjHgFdSaQw > 75) throw new Exception(); \n  } \n  catch (Exception e) { \n  lKjHgFdSaQw = 10; \n } \n
+\n int vFrT6gYhN2 = 50; \n  try { \n  vFrT6gYhN2 = 50 / 0; \n  } \n  catch (Exception e) { \n  vFrT6gYhN2 = 0; \n } \n
+\n int pO0iU7yT6r = 1; \n  try { \n  pO0iU7yT6r = 1 / 0; \n  } \n  catch (Exception e) { \n  pO0iU7yT6r = -1; \n } \n
+\n int lO9pIuY7tR = 30; \n  while (lO9pIuY7tR > 20) { \n  lO9pIuY7tR--; \n  if (lO9pIuY7tR == 25) break; \n } \n
+\n int cVbN7mKjL9 = 70; \n  while (cVbN7mKjL9 > 60) { \n  cVbN7mKjL9--; \n  if (cVbN7mKjL9 == 65) continue; \n  } \n
+\n int qW3eRtY7uI = 0; \n  while (qW3eRtY7uI < 10) { \n  qW3eRtY7uI++; \n  if (qW3eRtY7uI % 2 == 0) continue; \n } \n
+\n int hG6jKl9mN8 = 40; \n  for (int sD4fGhJkL9 = 0; \n  sD4fGhJkL9 < hG6jKl9mN8; \n  sD4fGhJkL9 += 10) { \n  hG6jKl9mN8 /= 2; \n } \n
+\n int xSwZ1qEaR5 = 60; \n  if (xSwZ1qEaR5 > 55) { \n  xSwZ1qEaR5 -= 5; \n  } \n  else if (xSwZ1qEaR5 < 50) { \n  xSwZ1qEaR5 += 5; \n } \n
+\n int mN6bV8nC7m = 20; \n  if (mN6bV8nC7m > 15) { \n  mN6bV8nC7m -= 5; \n  } \n  else if (mN6bV8nC7m < 10) { \n  mN6bV8nC7m += 5; \n } \n
+\n try { \n  int mNbVcXzZaQ = 1 / 0; \n  } \n  catch (Exception e) { \n  int qWeRtYuIoP0 = 0; \n } \n
+\n try { \n  int zXcVbNmAsD1 = 10 / 0; \n  } \n  catch (ArithmeticException e) { \n  int pOlKiJnBmN = 0; \n } \n
+\n while (int pOlKiJnBmN = 5) { \n  int aSdFgHjKlP = pOlKiJnBmN--; \n  if (pOlKiJnBmN == 0) break; \n } \n
+\n while (int qWeRtYuIoP0 = 10) { \n  int aSdFgHjKlP = qWeRtYuIoP0--; \n  if (qWeRtYuIoP0 < 5) continue; \n } \n
+\n for (int zXcVbNmAsD1 = 0; \n  zXcVbNmAsD1 < 10; \n  zXcVbNmAsD1++) { \n  int qWeRtYuIoP0 = zXcVbNmAsD1 * 2; \n } \n
+\n if (int mNbVcXzZaQ = 2) { \n  int qWeRtYuIoP0 = mNbVcXzZaQ * 3; \n  } \n  else { \n  int aSdFgHjKlP = mNbVcXzZaQ / 3; \n } \n
+\n for (int pOlKiJnBmN = 0; \n  pOlKiJnBmN < 5; \n  pOlKiJnBmN++) { \n  if (pOlKiJnBmN % 2 == 0) { \n  int mNbVcXzZaQ = pOlKiJnBmN + 1; \n  } \n } \n
+\n int jYdArMvToAZe = 10; \n  if (jYdArMvToAZe > 5) { \n  int qW3eRtY7uI = jYdArMvToAZe * 2; \n  } \n  else { \n  int aS1dF2gH3j = jYdArMvToAZe / 2; \n } \n
+\n if (int aSdFgHjKlP = 1) { \n  int zXcVbNmAsD1 = aSdFgHjKlP * 2; \n  } \n  else if (aSdFgHjKlP == 2) { \n  int qWeRtYuIoP0 = aSdFgHjKlP / 2; \n } \n
+\n for (int aSdFgHjKlP = 1; \n  aSdFgHjKlP <= 10; \n  aSdFgHjKlP++) { \n  if (aSdFgHjKlP % 2 != 0) { \n  int zXcVbNmAsD1 = aSdFgHjKlP + 2; \n  } \n  } \n
+\n int cV2bN3mZ4n = 60; \n  if (cV2bN3mZ4n > 55) { \n  cV2bN3mZ4n -= 5; \n  } \n  else { \n  cV2bN3mZ4n += 5; \n } \n
+\n int lK8jU7hY6g = 30; \n  while (lK8jU7hY6g > 0) { \n  lK8jU7hY6g--; \n  if (lK8jU7hY6g == 15) break; \n } \n
+\n int wE1rT2yU3i = 70; \n  while (wE1rT2yU3i > 65) { \n  wE1rT2yU3i--; \n  if (wE1rT2yU3i == 68) continue; \n  } \n
+\n int oP0iU9yT6r = 1; \n  try { \n  if (oP0iU9yT6r == 1) throw new Exception(); \n  } \n  catch (Exception e) { \n  oP0iU9yT6r = 0; \n } \n
+\n int mN2bV3nC4m = 20; \n  if (mN2bV3nC4m > 15) { \n  mN2bV3nC4m /= 2; \n  } \n  else if (mN2bV3nC4m < 10) { \n  mN2bV3nC4m *= 2; \n } \n
+\n int xS3dF4gH5j = 50; \n  try { \n  if (xS3dF4gH5j > 45) throw new Exception(); \n  } \n  catch (Exception e) { \n  xS3dF4gH5j = 45; \n } \n
+\n int pO1iU2yT3r = 40; \n  for (int aS1dF2gH3j = 0; \n  aS1dF2gH3j < pO1iU2yT3r; \n  aS1dF2gH3j++) { \n  if (aS1dF2gH3j % 5 == 0) continue; \n } \n
+\n int pO4iLm7UvC = 5; \n  for (int i = 0; \n  i < pO4iLm7UvC; \n  i++) { \n  if (i == 3) break; \n  pO4iLm7UvC++; \n } \n
+\n int sV8bN2mZ1x = 15; \n  while (sV8bN2mZ1x > 10) { \n  sV8bN2mZ1x--; \n  if (sV8bN2mZ1x == 12) continue; \n } \n
+\n int aS7dF6gH5j = 7; \n  for (int j = 0; \n  j < aS7dF6gH5j; \n  j++) { \n  if (j == 5) break; \n  aS7dF6gH5j *= 2; \n } \n
+\n int mN2bV3cX4z = 25; \n  while (mN2bV3cX4z < 30) { \n  mN2bV3cX4z++; \n  if (mN2bV3cX4z == 28) continue; \n  } \n
+\n int kL9qXn3RfG = 0; \n  while (kL9qXn3RfG < 10) { \n  kL9qXn3RfG++; \n  if (kL9qXn3RfG % 2 == 0) continue; \n } \n
+\n int zQ2wE3rN4t = 1; \n  try { \n  if (zQ2wE3rN4t == 1) throw new Exception(); \n  } \n  catch (Exception e) { \n  zQ2wE3rN4t = 0; \n } \n
+\n int hG6fYtR4eD = 20; \n  if (hG6fYtR4eD > 15) { \n  hG6fYtR4eD -= 5; \n  } \n  else if (hG6fYtR4eD < 10) { \n  hG6fYtR4eD += 5; \n } \n
+\n int cL3kP9oI2u = 30; \n  try { \n  if (cL3kP9oI2u > 25) throw new Exception(); \n  } \n  catch (Exception e) { \n  cL3kP9oI2u = 25; \n } \n
+\n int qW5eR6tY7u = 40; \n  if (qW5eR6tY7u > 35) { \n  qW5eR6tY7u -= 10; \n  } \n  else if (qW5eR6tY7u < 30) { \n  qW5eR6tY7u += 10; \n } \n
+\n int jYdArMvToAZe = 10; \n  if (jYdArMvToAZe > 5) { \n  int qW3eRtY7uI = 20; \n  while (qW3eRtY7uI > 10) { \n  qW3eRtY7uI--; \n  } \n } \n
+\n int qWeRtYuIoP0a = 25; \n  while (qWeRtYuIoP0a > 20) { \n  int aSdFgHjKlZ = qWeRtYuIoP0a - 1; \n  if (aSdFgHjKlZ < 20) { \n  break; \n  } \n } \n
+\n int zXcVbNm2AsD = 30; \n  for (int i = 0; \n  i < zXcVbNm2AsD; \n  i++) { \n  int pOiUyT6rEw = i + 5; \n  if (pOiUyT6rEw > 30) { \n  continue; \n  } \n } \n
+\n int qWeRtYuIoP0a = 50; \n  while (qWeRtYuIoP0a > 45) { \n  int aSdFgHjKlZ = qWeRtYuIoP0a - 5; \n  if (aSdFgHjKlZ < 45) { \n  break; \n  } \n } \n
+\n int zXcVbNm2AsD = 5; \n  for (int i = 0; \n  i < zXcVbNm2AsD; \n  i++) { \n  int pOiUyT6rEw = i * 2; \n  if (pOiUyT6rEw > 5) { \n  pOiUyT6rEw = 0; \n  } \n } \n
+\n int zXcVbNm2AsD = 55; \n  for (int i = 0; \n  i < zXcVbNm2AsD; \n  i++) { \n  int pOiUyT6rEw = i + 10; \n  if (pOiUyT6rEw > 55) { \n  continue; \n  } \n  } \n
+\n int jYdArMvToAZe1 = 35; \n  if (jYdArMvToAZe1 > 30) { \n  int qW3eRtY7uI = jYdArMvToAZe1 * 2; \n  while (qW3eRtY7uI > 50) { \n  qW3eRtY7uI--; \n  } \n } \n
+\n int zXcVbNm2AsD = 40; \n  for (int i = 0; \n  i < zXcVbNm2AsD; \n  i++) { \n  int pOiUyT6rEw = i / 2; \n  if (pOiUyT6rEw > 20) { \n  pOiUyT6rEw = 0; \n  } \n } \n
+\n int aSdFgHjKl1 = 15; \n  try { \n  if (aSdFgHjKl1 > 10) { \n  int mNbVcXzBnM = aSdFgHjKl1 / 0; \n  } \n  } \n  catch (Exception e) { \n  int oP9iU8yT7r = 0; \n } \n
+\n int aSdFgHjKl1 = 45; \n  try { \n  if (aSdFgHjKl1 > 40) { \n  int mNbVcXzBnM = aSdFgHjKl1 % 5; \n  } \n  } \n  catch (Exception e) { \n  int oP9iU8yT7r = 0; \n } \n
+\n int vF3dB5nG7h = 1; \n  if (vF3dB5nG7h > 0) { \n  vF3dB5nG7h *= 2; \n  } \n  else { \n  vF3dB5nG7h /= 2; \n } \n
+\n int lK8jU7hN6g = 10; \n  while (lK8jU7hN6g > 0) { \n  lK8jU7hN6g--; \n  if (lK8jU7hN6g == 5) break; \n } \n
+\n int pO0iU9yT7r = 1; \n  try { \n  pO0iU9yT7r = 1 / pO0iU9yT7r; \n  } \n  catch (Exception e) { \n  pO0iU9yT7r = -1; \n } \n
+\n int uG4hJ6kL8m = 5; \n  while (uG4hJ6kL8m < 10) { \n  uG4hJ6kL8m++; \n  if (uG4hJ6kL8m % 2 != 0) continue; \n  } \n
+\n int wE2rT4yU6i = 0; \n  try { \n  wE2rT4yU6i = 10 / wE2rT4yU6i; \n  } \n  catch (Exception e) { \n  wE2rT4yU6i = -1; \n } \n
+\n int xS3dF5gH7j = 1; \n  for (int cV2bN4mZ6x = 0; \n  cV2bN4mZ6x < xS3dF5gH7j; \n  cV2bN4mZ6x++) { \n  xS3dF5gH7j += cV2bN4mZ6x; \n } \n
+\n int mN2bV3nC4m = 0; \n  if (mN2bV3nC4m == 0) { \n  mN2bV3nC4m = 1; \n  } \n  else if (mN2bV3nC4m == 1) { \n  mN2bV3nC4m = 2; \n  } \n  else { \n  mN2bV3nC4m = 3; \n } \n
+\n int jYdArMvToAZe = 0; \n  while (jYdArMvToAZe < 10) { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe % 2 == 0) continue; \n } \n
+\n int jYdArMvToAZe = 12; \n  while (jYdArMvToAZe < 20) { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe % 3 == 0) continue; \n  } \n
+\n int jYdArMvToAZe = 2; \n  if (jYdArMvToAZe > 1) { \n  jYdArMvToAZe = jYdArMvToAZe * 2; \n  } \n  else { \n  jYdArMvToAZe = jYdArMvToAZe / 2; \n } \n
+\n int jYdArMvToAZe = 4; \n  if (jYdArMvToAZe < 5) { \n  jYdArMvToAZe = jYdArMvToAZe + 3; \n  } \n  else { \n  jYdArMvToAZe = jYdArMvToAZe - 3; \n } \n
+\n int xC3vB4nM5z = 7; \n  try { \n  xC3vB4nM5z = 7 / 0; \n  } \n  catch (Exception e) { \n  xC3vB4nM5z = 0; \n } \n
+\n int oP0iU7yT6r = 1; \n  try { \n  oP0iU7yT6r = 1 / 0; \n  } \n  catch (Exception e) { \n  oP0iU7yT6r = -1; \n } \n
+\n int lK8jU7hN6g = 3; \n  while (lK8jU7hN6g > 0) { \n  lK8jU7hN6g--; \n  if (lK8jU7hN6g == 1) break; \n } \n
+\n int zX9cV8bN7m = 6; \n  while (zX9cV8bN7m < 10) { \n  zX9cV8bN7m++; \n  if (zX9cV8bN7m % 2 != 0) continue; \n  } \n
+\n int qW3eR4tY7u = 0; \n  while (qW3eR4tY7u < 10) { \n  qW3eR4tY7u++; \n  if (qW3eR4tY7u % 2 == 0) continue; \n } \n
+\n int aS1dF2gH3j = 5; \n  for (int zX9cV8bN7m = 0; \n  zX9cV8bN7m < aS1dF2gH3j; \n  zX9cV8bN7m++) { \n  aS1dF2gH3j *= 2; \n } \n
+\n int pO9iU8yT7r = 4; \n  for (int aS2dF3gH4j = 0; \n  aS2dF3gH4j < pO9iU8yT7r; \n  aS2dF3gH4j++) { \n  pO9iU8yT7r /= 2; \n } \n
+\n int qW3eR4tY7u = 15; \n  if (qW3eR4tY7u > 10) { \n  qW3eR4tY7u -= 5; \n  } \n  else if (qW3eR4tY7u < 5) { \n  qW3eR4tY7u += 5; \n  } \n  else { \n  qW3eR4tY7u *= 2; \n } \n
+\n int mN6bV5nC4x = 20; \n  if (mN6bV5nC4x < 15) { \n  mN6bV5nC4x += 5; \n  } \n  else if (mN6bV5nC4x > 25) { \n  mN6bV5nC4x -= 5; \n  } \n  else { \n  mN6bV5nC4x *= 2; \n } \n
+\n int wE2rT3yU4i = 7; \n  if (wE2rT3yU4i % 2 == 0) { \n  wE2rT3yU4i++; \n  } \n  else { \n  wE2rT3yU4i--; \n } \n
+\n int lK8jU7hN6g = 100; \n  while (lK8jU7hN6g > 0) { \n  lK8jU7hN6g -= 10; \n  if (lK8jU7hN6g == 50) break; \n } \n
+\n int vF1gH2jK3l = 15; \n  while (vF1gH2jK3l < 20) { \n  vF1gH2jK3l++; \n  if (vF1gH2jK3l == 18) continue; \n  } \n
+\n int pO0iU9yT6r = 4; \n  try { \n  if (pO0iU9yT6r > 3) throw new Exception(); \n  } \n  catch (Exception e) { \n  pO0iU9yT6r = -1; \n } \n
+\n int xS3dF4gH5j = 3; \n  for (int cV2bN3mZ4n = 0; \n  cV2bN3mZ4n < xS3dF4gH5j; \n  cV2bN3mZ4n++) { \n  xS3dF4gH5j += cV2bN3mZ4n; \n } \n
+\n int jYdArMvToAZe = 3; \n while (jYdArMvToAZe > 0) { \n  jYdArMvToAZe--; \n  if (jYdArMvToAZe % 2 == 0) { \n  int pOnQrStUvWx = jYdArMvToAZe + 1; \n  } \n } \n
+\n int jYdArMvToAZe = 3; \n while (jYdArMvToAZe > 0) { \n  jYdArMvToAZe /= 2; \n  if (jYdArMvToAZe % 3 == 0) { \n  int aSdFgHjKlM = jYdArMvToAZe + 3; \n  } \n } \n
+\n try { \n  if (jYdArMvToAZe != 0) { \n  throw new Exception(); \n  } \n  } \n  catch (Exception e) { \n  int vUwXyZ1234 = jYdArMvToAZe / 2; \n } \n
+\n int jYdArMvToAZe = 3; \n while (jYdArMvToAZe < 100) { \n  jYdArMvToAZe += 10; \n  if (jYdArMvToAZe % 7 == 0) { \n  int yTrEwQqAsD = jYdArMvToAZe - 5; \n  } \n  } \n
+\n try { \n  if (jYdArMvToAZe > 10) { \n  throw new IOException(); \n  } \n  } \n  catch (IOException e) { \n  int pOnQrStUvWx = jYdArMvToAZe / 3; \n } \n
+\n try { \n  if (jYdArMvToAZe == 0) { \n  throw new RuntimeException(); \n  } \n  } \n  catch (RuntimeException e) { \n  int iOpUyTcRvEb = jYdArMvToAZe * 2; \n } \n
+\n int jYdArMvToAZe = 3; \n if (jYdArMvToAZe > 0) { \n  int xYz12QwErT = jYdArMvToAZe * 2; \n  while (xYz12QwErT > 0) { \n  xYz12QwErT--; \n  } \n  } \n  else { \n  int aBcDeFgHiJk = jYdArMvToAZe + 1; \n } \n
+\n for (int qWeRtYuIoP = jYdArMvToAZe; \n  qWeRtYuIoP > 0; \n  qWeRtYuIoP--) { \n  if (qWeRtYuIoP % 5 == 0) { \n  continue; \n  } \n  else { \n  int zXcVbNmKlJ = qWeRtYuIoP * 4; \n  } \n } \n
+\n for (int lMnOpQrStUv = 0; \n  lMnOpQrStUv < jYdArMvToAZe; \n  lMnOpQrStUv++) { \n  if (lMnOpQrStUv % 2 == 0) { \n  continue; \n  } \n  else { \n  int wXyZ098765 = lMnOpQrStUv * 3; \n  } \n } \n
+\n int jYdArMvToAZe = 3; \n if (jYdArMvToAZe < 0) { \n  for (int yTrEwQqAsD = 0; \n  yTrEwQqAsD < jYdArMvToAZe; \n  yTrEwQqAsD++) { \n  yTrEwQqAsD += 2; \n  } \n  } \n  else { \n  int zXcVbNmKlJ = jYdArMvToAZe - 1; \n } \n
+\n int nB2mZ3xC4v = 15; \n  try { \n  nB2mZ3xC4v = 15 / 0; \n  } \n  catch (Exception e) { \n  nB2mZ3xC4v = 0; \n } \n
+\n int cV9bN8mJ7n = 25; \n  if (cV9bN8mJ7n > 20) { \n  cV9bN8mJ7n /= 5; \n  } \n  else { \n  cV9bN8mJ7n *= 5; \n  } \n
+\n int vF6gH7jK8l = 30; \n  while (vF6gH7jK8l > 0) { \n  vF6gH7jK8l--; \n  if (vF6gH7jK8l % 5 == 0) continue; \n } \n
+\n int aS1dF2gH3j = 5; \n  for (int zX9cV8bN7m = 0; \n  zX9cV8bN7m < aS1dF2gH3j; \n  zX9cV8bN7m++) { \n  aS1dF2gH3j *= 2; \n } \n
+\n int sD4fG5hJ6k = 100; \n  for (int wE2rT3yU4i = 0; \n  wE2rT3yU4i < sD4fG5hJ6k; \n  wE2rT3yU4i++) { \n  if (wE2rT3yU4i > 50) break; \n } \n
+\n int mN1bV2nC3x = 0; \n  do { \n  mN1bV2nC3x++; \n  } \n  while (mN1bV2nC3x < 10 && mN1bV2nC3x % 2 != 0); \n
+\n int lK8jU7hN6g = 20; \n  if (lK8jU7hN6g > 15) { \n  lK8jU7hN6g -= 5; \n  } \n  else if (lK8jU7hN6g < 10) { \n  lK8jU7hN6g += 5; \n  } \n  else { \n  lK8jU7hN6g *= 2; \n } \n
+\n int pQ6wErT8yUi = 20; \n  while (pQ6wErT8yUi > 0) { \n  pQ6wErT8yUi--; \n  if (pQ6wErT8yUi == 10) break; \n } \n
+\n int rFvCbNm1Qw = 30; \n  for (int i = 0; \n  i < rFvCbNm1Qw; \n  i++) { \n  if (i % 3 == 0) continue; \n  else rFvCbNm1Qw -= i; \n } \n
+\n int mNbXvCzZ1A = 45; \n  for (int j = 0; \n  j < mNbXvCzZ1A; \n  j++) { \n  if (j % 5 == 0) continue; \n  else mNbXvCzZ1A -= j; \n  } \n
+\n int yT7uI6oP5l = 40; \n  while (yT7uI6oP5l > 20) { \n  yT7uI6oP5l--; \n  if (yT7uI6oP5l == 30) break; \n  else yT7uI6oP5l += 2; \n } \n
+\n for (int kL9qXn1Gt2 = 0; \n  kL9qXn1Gt2 < 10; \n  kL9qXn1Gt2++) { \n  if (kL9qXn1Gt2 % 2 == 0) continue; \n  else kL9qXn1Gt2 *= 2; \n } \n
+\n int zXcVbNm1Qw = 5; \n  do { \n  zXcVbNm1Qw++; \n  } \n  while (zXcVbNm1Qw < 10 && zXcVbNm1Qw > 0); \n
+\n int fGhJkL9qXn = 15; \n  if (fGhJkL9qXn > 10) { \n  fGhJkL9qXn += 5; \n  } \n  else if (fGhJkL9qXn < 5) { \n  fGhJkL9qXn -= 5; \n  } \n  else { \n  fGhJkL9qXn *= 2; \n } \n
+\n int aSdFgHjKlZ = 25; \n  do { \n  aSdFgHjKlZ++; \n  } \n  while (aSdFgHjKlZ < 30 || aSdFgHjKlZ > 20); \n
+\n int qWeRtYzUxCi = 35; \n  if (qWeRtYzUxCi > 30) { \n  qWeRtYzUxCi += 10; \n  } \n  else if (qWeRtYzUxCi < 25) { \n  qWeRtYzUxCi -= 10; \n  } \n  else { \n  qWeRtYzUxCi *= 3; \n } \n
+\n try { \n  int sD2fG3hJ4k = 10 / 0; \n  } \n  catch (Exception e) { \n  int lK9jH8gF7d = 1; \n  lK9jH8gF7d++; \n } \n
+\n try { \n  int jK0lP1oI2u = 20 / 0; \n  } \n  catch (Exception e) { \n  int kL2jH3gF4d = 2; \n  kL2jH3gF4d++; \n } \n
+\n if (int uI1oP2iU3y = 1) { \n  int wQ4eR5tY6u = uI1oP2iU3y * 2; \n  if (wQ4eR5tY6u > 1) { \n  int xZ7cV8bN9m = wQ4eR5tY6u / 2; \n  } \n } \n
+\n if (int mN4bVc6xZ1 = 2) { \n  int nB7vC5xZ2a = mN4bVc6xZ1 * 5; \n  if (nB7vC5xZ2a > 2) { \n  int oP9iUyT6rE = nB7vC5xZ2a / 5; \n  } \n } \n
+\n while (int kL6jH5gF4d = 1) { \n  int pO0iU9yT8r = kL6jH5gF4d * 2; \n  if (pO0iU9yT8r > 10) { \n  int nB7vC5xZ2a = pO0iU9yT8r / 2; \n  break; \n  } \n  kL6jH5gF4d++; \n } \n
+\n while (int gH5jK6lP0o = 2) { \n  int hJ7kL8jH9g = gH5jK6lP0o * 4; \n  if (hJ7kL8jH9g > 20) { \n  int iU9yT8rE0p = hJ7kL8jH9g / 4; \n  break; \n  } \n  gH5jK6lP0o++; \n } \n
+\n for (int cV8bNm2As3 = 0; \n  cV8bNm2As3 < 5; \n  cV8bNm2As3++) { \n  int eR5tY6uI7o = cV8bNm2As3 * 3; \n  if (eR5tY6uI7o > 10) { \n  int fG3hJ4kL9j = eR5tY6uI7o / 3; \n  } \n } \n
+\n for (int pO0iU9yT8r = 0; \n  pO0iU9yT8r < 3; \n  pO0iU9yT8r++) { \n  int qW3eRtY7uI = pO0iU9yT8r * 6; \n  if (qW3eRtY7uI > 15) { \n  int rE0pO1iU2y = qW3eRtY7uI / 6; \n  } \n  } \n
+\n for (int zX8cVbNm2As = 0; \n  zX8cVbNm2As < 10; \n  zX8cVbNm2As++) { \n  int oP9iUyT6rE = zX8cVbNm2As * 2; \n  if (oP9iUyT6rE > 10) { \n  int mN4bVc6xZ1 = oP9iUyT6rE / 2; \n  } \n } \n
+\n int jYdArMvToAZe = 10; \n  if (jYdArMvToAZe > 5) { \n  int qW3eRtY7uI = 20; \n  jYdArMvToAZe += qW3eRtY7uI; \n  } \n  else { \n  int aS1dF2gH3j = 30; \n  jYdArMvToAZe -= aS1dF2gH3j; \n } \n
+\n try { \n  int sD4fG5hJ6k = 20 / 0; \n  } \n  catch (Exception e) { \n  int vF7gH8jK9l = 1; \n } \n
+\n while (int kL6jH5gF4d = 1) { \n  if (kL6jH5gF4d < 5) { \n  int mN8bV9nC7x = kL6jH5gF4d * 2; \n  } \n  else { \n  break; \n  } \n } \n
+\n while (int gH7jK8lP9o = 30) { \n  if (gH7jK8lP9o > 25) { \n  int hJ6kL5iO4p = gH7jK8lP9o - 1; \n  } \n  else { \n  break; \n  } \n } \n
+\n for (int zX9cV8bN7m = 0; \n  zX9cV8bN7m < 10; \n  zX9cV8bN7m++) { \n  if (zX9cV8bN7m % 2 == 0) { \n  int pO0iU7yT6r = zX9cV8bN7m + 1; \n  } \n } \n
+\n int xC1vB2nM3z = 15; \n  while (xC1vB2nM3z > 0) { \n  if (xC1vB2nM3z % 3 == 0) { \n  int yT4uV5bN6m = xC1vB2nM3z - 1; \n  } \n  xC1vB2nM3z--; \n } \n
+\n int jYdArMvToAZe = 10; \n  if (jYdArMvToAZe > 5) { \n  int qW3eRtY7U = jYdArMvToAZe * 2; \n  } \n  else { \n  int aS1dF2gH3 = jYdArMvToAZe / 2; \n } \n
+\n if (int tR2eW3qE4t = 5) { \n  for (int uI5oP6iU7y = 0; \n  uI5oP6iU7y < tR2eW3qE4t; \n  uI5oP6iU7y++) { \n  int wE8rN9tB0v = uI5oP6iU7y + 1; \n  } \n } \n
+\n for (int aS1dF2gH3 = 0; \n  aS1dF2gH3 < 20; \n  aS1dF2gH3 += 2) { \n  try { \n  int bN6mB7vN8m = aS1dF2gH3 / 2; \n  } \n  catch (Exception e) { \n  int cV9nC0xM1z = 1; \n  } \n } \n
+\n int dE2wS3eD4r = 25; \n  if (dE2wS3eD4r > 20) { \n  for (int eR5tF6gH7y = 0; \n  eR5tF6gH7y < dE2wS3eD4r; \n  eR5tF6gH7y++) { \n  int fG8hJ9kL0u = eR5tF6gH7y * 2; \n  } \n } \n
+\n try { \n  int iO3pI6uY7o = 35 / 0; \n  } \n  catch (Exception e) { \n  for (int jU8iO9pA0q = 0; \n  jU8iO9pA0q < 10; \n  jU8iO9pA0q++) { \n  int kL7jH0rS1t = jU8iO9pA0q + 1; \n  } \n  } \n
+\n int jYdArMvToAZe = 12; \n  while (jYdArMvToAZe != 0) { \n  jYdArMvToAZe -= 2; \n } \n
+\n int jYdArMvToAZe = 8; \n  for (int i = 0; \n  i < 3; \n  i++) { \n  jYdArMvToAZe *= jYdArMvToAZe; \n } \n
+\n int jYdArMvToAZe = 7; \n  if (jYdArMvToAZe < 10) { \n  jYdArMvToAZe++; \n  } \n  else { \n  jYdArMvToAZe--; \n } \n
+\n int jYdArMvToAZe = 18; \n  if (jYdArMvToAZe > 15) { \n  jYdArMvToAZe = 0; \n  } \n  else { \n  jYdArMvToAZe = 1; \n  } \n
+\n int sT1uL7wE9i = 10; \n  while (sT1uL7wE9i > 0) { \n  sT1uL7wE9i--; \n  if (sT1uL7wE9i == 5) continue; \n } \n
+\n int yZ5aP1bQ3m = 6; \n  while (yZ5aP1bQ3m < 10) { \n  yZ5aP1bQ3m++; \n  if (yZ5aP1bQ3m == 8) continue; \n  } \n
+\n int kL9pQ3rXnS = 0; \n  while (kL9pQ3rXnS < 10) { \n  kL9pQ3rXnS++; \n  if (kL9pQ3rXnS % 2 == 0) continue; \n } \n
+\n int tU2vM8xG0j = 1; \n  for (int i = 0; \n  i < tU2vM8xG0j; \n  i++) { \n  tU2vM8xG0j += i; \n  if (tU2vM8xG0j > 5) break; \n } \n
+\n int mN7gH4yB6f = 1; \n  for (int i = 0; \n  i < mN7gH4yB6f; \n  i++) { \n  mN7gH4yB6f *= 2; \n  if (mN7gH4yB6f > 10) break; \n } \n
+\n int pO8iJ5uC7g = 5; \n  try { \n  if (pO8iJ5uC7g == 5) throw new Exception(); \n  } \n  catch (Exception e) { \n  pO8iJ5uC7g = 0; \n } \n
+\n int vW3xN9yH1k = 3; \n  try { \n  if (vW3xN9yH1k != 3) throw new Exception(); \n  } \n  catch (Exception e) { \n  vW3xN9yH1k = 3; \n } \n
+\n int qR9oK6vD8h = 2; \n  if (qR9oK6vD8h < 3) { \n  qR9oK6vD8h++; \n  } \n  else if (qR9oK6vD8h > 3) { \n  qR9oK6vD8h--; \n  } \n  else { \n  qR9oK6vD8h = 3; \n } \n
+\n int wX4yO0zI2l = 4; \n  if (wX4yO0zI2l > 4) { \n  wX4yO0zI2l--; \n  } \n  else if (wX4yO0zI2l < 4) { \n  wX4yO0zI2l++; \n  } \n  else { \n  wX4yO0zI2l = 4; \n } \n
+\n int mN6bV7nC8m = 1; \n  try { \n  mN6bV7nC8m = 1 / 0; \n  } \n  catch (Exception e) { \n  mN6bV7nC8m = -1; \n } \n
+\n int wE2rT3yU4i = 100; \n  if (wE2rT3yU4i > 50) { \n  wE2rT3yU4i /= 2; \n  } \n  else { \n  wE2rT3yU4i *= 2; \n } \n
+\n int lK8jU7hN6g = 15; \n  while (lK8jU7hN6g > 10) { \n  lK8jU7hN6g--; \n  if (lK8jU7hN6g == 12) break; \n } \n
+\n int vF5gB6hN7j = 7; \n  while (vF5gB6hN7j < 15) { \n  vF5gB6hN7j++; \n  if (vF5gB6hN7j % 3 == 0) continue; \n  } \n
+\n int pO0iU9yT6r = 25; \n  try { \n  pO0iU9yT6r = pO0iU9yT6r / 0; \n  } \n  catch (Exception e) { \n  pO0iU9yT6r = 99; \n } \n
+\n int xS2dF3gH4j = 3; \n  for (int cV6bN7mB8v = 0; \n  cV6bN7mB8v < xS2dF3gH4j; \n  cV6bN7mB8v++) { \n  xS2dF3gH4j += cV6bN7mB8v; \n } \n
+\n int oP0iU9yT6r = 20; \n  if (oP0iU9yT6r < 30) { \n  oP0iU9yT6r += 5; \n  } \n  else if (oP0iU9yT6r > 40) { \n  oP0iU9yT6r -= 5; \n  } \n  else { \n  oP0iU9yT6r = 0; \n } \n
+\n int pO0iU9yT6r = 1; \n  try { \n  pO0iU9yT6r = 1 / 0; \n  } \n  catch (Exception e) { \n  pO0iU9yT6r = -1; \n } \n
+\n int sD1fG2hJ3k = 10; \n  if (sD1fG2hJ3k > 5) { \n  sD1fG2hJ3k -= 5; \n  } \n  else { \n  sD1fG2hJ3k += 5; \n } \n
+\n int vB2nM3cX4v = 0; \n  try { \n  vB2nM3cX4v = 1 / 0; \n  } \n  catch (Exception e) { \n  vB2nM3cX4v = 0; \n  } \n  finally { \n  vB2nM3cX4v = -1; \n } \n
+\n int fG4hJ3kL2m = 1; \n  for (int dE5rF6tG7y = 0; \n  dE5rF6tG7y < 5; \n  dE5rF6tG7y++) { \n  fG4hJ3kL2m *= 2; \n  if (fG4hJ3kL2m > 10) break; \n } \n
+\n int mN2bV3nC6m = 0; \n  if (mN2bV3nC6m == 0) { \n  mN2bV3nC6m = 1; \n  } \n  else if (mN2bV3nC6m == 1) { \n  mN2bV3nC6m = 2; \n  } \n  else { \n  mN2bV3nC6m = 3; \n } \n
+\n int zX9cC8vB7n = 0; \n  for (int aS1dF2gH3j = 0; \n  aS1dF2gH3j < 10; \n  aS1dF2gH3j++) { \n  zX9cC8vB7n += aS1dF2gH3j; \n  if (zX9cC8vB7n > 20) break; \n  } \n
+\n int zE1jYdArMvTo = 5; \n  for (int i = 0; \n  i < zE1jYdArMvTo; \n  i++) { \n  if (i == 3) break; \n  zE1jYdArMvTo++; \n } \n
+\n int e1jYdArMvToAZ = 25; \n  while (e1jYdArMvToAZ > 20) { \n  e1jYdArMvToAZ--; \n  if (e1jYdArMvToAZ == 22) break; \n } \n
+\n int MvToAZe1jYdAr = 45; \n  while (MvToAZe1jYdAr > 40) { \n  MvToAZe1jYdAr--; \n  if (MvToAZe1jYdAr == 42) break; \n  } \n
+\n int AZe1jYdArMvTo = 30; \n  for (int j = 0; \n  j < AZe1jYdArMvTo; \n  j++) { \n  if (j > 25) continue; \n  AZe1jYdArMvTo--; \n } \n
+\n int vToAZe1jYdArM = 0; \n  while (vToAZe1jYdArM < 10) { \n  vToAZe1jYdArM++; \n  if (vToAZe1jYdArM % 2 == 0) continue; \n } \n
+\n int rMvToAZe1jYd = 15; \n  try { \n  if (rMvToAZe1jYd > 10) throw new Exception(); \n  } \n  catch (Exception e) { \n  rMvToAZe1jYd = 0; \n } \n
+\n int YdArMvToAZe1j = 35; \n  try { \n  if (YdArMvToAZe1j > 30) throw new Exception(); \n  } \n  catch (Exception e) { \n  YdArMvToAZe1j = 10; \n } \n
+\n int dArMvToAZe1jY = 20; \n  if (dArMvToAZe1jY > 15) { \n  dArMvToAZe1jY -= 5; \n  } \n  else if (dArMvToAZe1jY < 10) { \n  dArMvToAZe1jY += 5; \n } \n
+\n int ToAZe1jYdArMv = 40; \n  if (ToAZe1jYdArMv > 35) { \n  ToAZe1jYdArMv -= 10; \n  } \n  else if (ToAZe1jYdArMv < 30) { \n  ToAZe1jYdArMv += 10; \n } \n
+\n int uY2iU3oI4p = 10; \n  if (uY2iU3oI4p > 5) { \n  uY2iU3oI4p *= 2; \n  } \n  else { \n  uY2iU3oI4p /= 2; \n  } \n
+\n int rF5gT6yH7u = 0; \n  for (int i = 0; \n  i < 10; \n  i++) { \n  rF5gT6yH7u += i; \n  if (rF5gT6yH7u > 20) break; \n } \n
+\n int tR3eT4yU5i = 0; \n  while (tR3eT4yU5i < 20) { \n  tR3eT4yU5i += 2; \n  if (tR3eT4yU5i % 4 == 0) continue; \n } \n
+\n int sD4fG5hJ6k = 1; \n  try { \n  sD4fG5hJ6k = 1 / (sD4fG5hJ6k - 1); \n  } \n  catch (Exception e) { \n  sD4fG5hJ6k = 0; \n } \n
+\n int aS1dF2gH3j = 5; \n  for (int zX5cV6bN7m = 0; \n  zX5cV6bN7m < aS1dF2gH3j; \n  zX5cV6bN7m++) { \n  aS1dF2gH3j *= 2; \n } \n
+\n int lK8jU7hN6g = 0; \n  do { \n  lK8jU7hN6g++; \n  if (lK8jU7hN6g == 5) break; \n  } \n  while (lK8jU7hN6g < 10); \n
+\n int mN9bV8nC7x = 10; \n  if (mN9bV8nC7x > 15) { \n  mN9bV8nC7x += 5; \n  } \n  else if (mN9bV8nC7x > 5) { \n  mN9bV8nC7x -= 5; \n } \n
+\n try { \n  int oPqWrEzXcV = 5 / 0; \n  } \n  catch (Exception e) { \n  int mZxCvBnMlK = 10; \n } \n
+\n try { \n  int mZxCvBnMlK = 10 / 0; \n  } \n  catch (Exception e) { \n  int oPqWrEzXcV = 20; \n } \n
+\n for (int zXcVbNmZxW = 0; \n  zXcVbNmZxW < 10; \n  zXcVbNmZxW++) { \n  int qWeRtYuIoP0 = zXcVbNmZxW * 2; \n } \n
+\n while (int qWeRtYuIoP0 = 1) { \n  int pLoKmInUjYtR = qWeRtYuIoP0 * 3; \n  if (pLoKmInUjYtR > 15) break; \n } \n
+\n while (int pLoKmInUjYtR = 1) { \n  int aSdFgHjKlZ = pLoKmInUjYtR * 2; \n  if (aSdFgHjKlZ > 10) break; \n } \n
+\n for (int aSdFgHjKlZ = 0; \n  aSdFgHjKlZ < 5; \n  aSdFgHjKlZ++) { \n  int zXcVbNmZxW = aSdFgHjKlZ + 10; \n } \n
+\n for (int iOpUyTrEwQqA = 0; \n  iOpUyTrEwQqA < 10; \n  iOpUyTrEwQqA++) { \n  int yTgBnHmJkL = iOpUyTrEwQqA + 5; \n  } \n
+\n if (int uIoP0aSdFg = 10 > 5) { \n  int yTgBnHmJkL = uIoP0aSdFg * 3; \n  } \n  else { \n  int iOpUyTrEwQqA = uIoP0aSdFg / 3; \n } \n
+\n if (int yTgBnHmJkL = 5 > 3) { \n  int iOpUyTrEwQqA = yTgBnHmJkL * 2; \n  } \n  else { \n  int uIoP0aSdFg = yTgBnHmJkL / 2; \n } \n
+\n int gHjKlP6oI = 80; \n  try { \n  if (gHjKlP6oI > 75) { \n  throw new Exception(); \n  } \n  } \n  catch (Exception e) { \n  int hJkLmN7iO = 85; \n } \n
+\n int pOiUyT6rE = 15; \n  try { \n  if (pOiUyT6rE > 10) { \n  throw new Exception(); \n  } \n  } \n  catch (Exception e) { \n  int mKlPjOiU7y = 25; \n } \n
+\n int zXcVbNm1qW = 5; \n  for (int i = 0; \n  i < zXcVbNm1qW; \n  i++) { \n  int aSdFgHjK2l = i * 2; \n  if (aSdFgHjK2l > 5) { \n  aSdFgHjK2l = 0; \n  } \n } \n
+\n int rFvGbHnJmK = 50; \n  try { \n  if (rFvGbHnJmK > 45) { \n  throw new Exception(); \n  } \n  } \n  catch (Exception e) { \n  int yTgBhNjMkL = 55; \n } \n
+\n int wErTyU2iO = 40; \n  for (int x = 0; \n  x < wErTyU2iO; \n  x++) { \n  int zXcVbNm1qW = x % 10; \n  if (zXcVbNm1qW == 0) { \n  zXcVbNm1qW = 5; \n  } \n } \n
+\n int iUyT6rEwQ = 90; \n  while (iUyT6rEwQ > 80) { \n  int jKlP8oIuY = iUyT6rEwQ - 10; \n  if (jKlP8oIuY < 85) { \n  jKlP8oIuY = 90; \n  } \n  iUyT6rEwQ--; \n  } \n
+\n int nBvCxZ1aQ = 30; \n  while (nBvCxZ1aQ > 20) { \n  int sDfGhJkL3o = nBvCxZ1aQ - 5; \n  if (sDfGhJkL3o < 25) { \n  sDfGhJkL3o = 30; \n  } \n  nBvCxZ1aQ--; \n } \n
+\n int eRtYuIoP4aS = 70; \n  for (int z = 0; \n  z < eRtYuIoP4aS; \n  z++) { \n  int fGhJkLmN5d = z + 10; \n  if (fGhJkLmN5d > 60) { \n  fGhJkLmN5d = 50; \n  } \n } \n
+\n int cVbNmZ1aQw = 60; \n  while (cVbNmZ1aQw > 50) { \n  int dFgHjKlP3o = cVbNmZ1aQw / 2; \n  if (dFgHjKlP3o > 25) { \n  dFgHjKlP3o = 30; \n  } \n  cVbNmZ1aQw--; \n } \n
+\n int rD2fG3hJ4k = 30; \n  try { \n  if (rD2fG3hJ4k > 25) throw 1; \n  } \n  catch (int e) { \n  rD2fG3hJ4k = e; \n } \n
+\n int aS1dF2gH3j = 1; \n  for (int zX5cV6bN7m = 0; \n  zX5cV6bN7m < 5; \n  zX5cV6bN7m++) { \n  aS1dF2gH3j *= 2; \n } \n
+\n int cV6bN7mB8n = 40; \n  while (cV6bN7mB8n > 35) { \n  cV6bN7mB8n--; \n  if (cV6bN7mB8n == 38) break; \n } \n
+\n int xS1dF2gH3j = 50; \n  if (xS1dF2gH3j < 60) { \n  xS1dF2gH3j += 10; \n  } \n  else { \n  xS1dF2gH3j -= 10; \n  } \n
+\n int vF5gT6hY7j = 20; \n  for (int i = 0; \n  i < vF5gT6hY7j; \n  i++) { \n  if (i % 2 == 0) vF5gT6hY7j /= 2; \n } \n
+\n int pO0iU9yT6r = 5; \n  try { \n  if (pO0iU9yT6r != 0) throwError"; \n  } \n  catch (char* str) { \n  pO0iU9yT6r = -1; \n } \n
+\n int mN8bV9nC6x = 0; \n  do { \n  mN8bV9nC6x++; \n  } \n  while (mN8bV9nC6x < 10 && mN8bV9nC6x % 2 != 0); \n
+\n int lK9jH6gF4d = 10; \n  if (lK9jH6gF4d > 15) { \n  lK9jH6gF4d += 5; \n  } \n  else if (lK9jH6gF4d > 5) { \n  lK9jH6gF4d -= 5; \n } \n
+\n int xS3dF5gH7j = 15; \n  if (xS3dF5gH7j > 10) { \n  xS3dF5gH7j -= 5; \n  } \n  else { \n  xS3dF5gH7j += 5; \n } \n
+\n int cV6bN8mZ1x = 25; \n  while (cV6bN8mZ1x > 20) { \n  cV6bN8mZ1x--; \n  if (cV6bN8mZ1x == 22) continue; \n  } \n
+\n int pO0iU9yT6r = 5; \n  try { \n  if (pO0iU9yT6r == 5) throw new Exception(); \n  } \n  catch (Exception e) { \n  pO0iU9yT6r = 0; \n } \n
+\n int mN8bV9nC6x = 20; \n  if (mN8bV9nC6x > 15) { \n  mN8bV9nC6x /= 2; \n  } \n  else if (mN8bV9nC6x < 10) { \n  mN8bV9nC6x *= 2; \n } \n
+\n int vF7gH4jK2l = 7; \n  try { \n  if (vF7gH4jK2l % 2 == 0) throw new RuntimeException(); \n  } \n  catch (RuntimeException e) { \n  vF7gH4jK2l = -1; \n } \n
+\n int lK9jH6gF4d = 1; \n  do { \n  lK9jH6gF4d++; \n  } \n  while (lK9jH6gF4d < 10 && lK9jH6gF4d % 2 != 0); \n
+\n int wE2rT5yG6u = 3; \n  for (int i = 0; \n  i < wE2rT5yG6u; \n  i++) { \n  if (i == 2) break; \n  wE2rT5yG6u++; \n } \n
+\n int lK8jU7hN6g = 10; \n  while (lK8jU7hN6g > 0) { \n  lK8jU7hN6g--; \n  if (lK8jU7hN6g == 5) break; \n } \n
+\n int bN1mZ2kL3j = 5; \n  while (bN1mZ2kL3j > 0) { \n  bN1mZ2kL3j--; \n  if (bN1mZ2kL3j == 2) continue; \n  } \n
+\n int vF6gH7jK8l = 0; \n  try { \n  vF6gH7jK8l = 1 / 0; \n  } \n  catch (Exception e) { \n  vF6gH7jK8l = -1; \n  } \n  finally { \n  vF6gH7jK8l = 0; \n } \n
+\n int xS3dF4gH5j = 1; \n  for (int qW3eR4tY7u = 0; \n  qW3eR4tY7u < 5; \n  qW3eR4tY7u++) { \n  xS3dF4gH5j *= 2; \n  if (xS3dF4gH5j > 10) break; \n } \n
+\n int mN2bV3nC6m = 0; \n  if (mN2bV3nC6m == 0) { \n  mN2bV3nC6m = 1; \n  } \n  else if (mN2bV3nC6m == 1) { \n  mN2bV3nC6m = 2; \n  } \n  else { \n  mN2bV3nC6m = 3; \n } \n
+\n int cV2bN3mZ4k = 1; \n  if (cV2bN3mZ4k == 1) { \n  cV2bN3mZ4k = 2; \n  } \n  else if (cV2bN3mZ4k == 2) { \n  cV2bN3mZ4k = 3; \n  } \n  else { \n  cV2bN3mZ4k = 4; \n } \n
+\n int jYdArMvToAZe = 3; \n while (jYdArMvToAZe < 10) { \n  jYdArMvToAZe++; \n  if (jYdArMvToAZe == 5) { \n  break; \n  } \n } \n
+\n int jYdArMvToAZe = 0; \n  if (jYdArMvToAZe == 0) { \n  jYdArMvToAZe = 1; \n  } \n  else { \n  jYdArMvToAZe = 2; \n } \n
+\n while (jYdArMvToAZe < 10) { \n  if (jYdArMvToAZe % 2 == 0) { \n  jYdArMvToAZe++; \n  continue; \n  } \n  jYdArMvToAZe += 2; \n } \n
+\n for (int jYdArMvToAZe = 0; \n  jYdArMvToAZe < 10; \n  jYdArMvToAZe++) { \n  if (jYdArMvToAZe % 2 == 0) { \n  continue; \n  } \n } \n
+\n for (int jYdArMvToAZe = 0; \n  jYdArMvToAZe < 10; \n  jYdArMvToAZe++) { \n  if (jYdArMvToAZe == 5) { \n  continue; \n  } \n  else { \n  jYdArMvToAZe += 2; \n  } \n  } \n
+\n for (int jYdArMvToAZe = 0; \n  jYdArMvToAZe < 10; \n  jYdArMvToAZe++) { \n  for (int kLmN123oPq = 0; \n  kLmN123oPq < 5; \n  kLmN123oPq++) { \n  jYdArMvToAZe += kLmN123oPq; \n  } \n } \n
+\n int jYdArMvToAZe = 3; \n do { \n  jYdArMvToAZe++; \n  } \n  while (jYdArMvToAZe < 10); \n
+\n int jYdArMvToAZe = 3; \n if (jYdArMvToAZe == 0) { \n  jYdArMvToAZe = 1; \n  } \n  else if (jYdArMvToAZe == 1) { \n  jYdArMvToAZe = 2; \n  } \n  else { \n  jYdArMvToAZe = 3; \n } \n
+\n int jYdArMvToAZe = 3; \n do { \n  if (jYdArMvToAZe == 5) { \n  break; \n  } \n  jYdArMvToAZe++; \n  } \n  while (jYdArMvToAZe < 10); \n
+\n int jYdArMvToAZe = 3; \n if (jYdArMvToAZe == 0) { \n  jYdArMvToAZe = 1; \n  } \n  else { \n  for (int jYdArMvToAZe = 0; \n  jYdArMvToAZe < 5; \n  jYdArMvToAZe++) { \n  jYdArMvToAZe += jYdArMvToAZe; \n  } \n } \n
+\n int jYdArMvToAZe = 5; \n  if (jYdArMvToAZe > 3) { \n  jYdArMvToAZe = 2; \n  } \n  else { \n  jYdArMvToAZe = 1; \n  } \n
+\n int jYdArMvToAZe = 0; \n  for (int i = 0; \n  i < 10; \n  i++) { \n  if (i % 2 == 0) continue; \n  jYdArMvToAZe += i; \n } \n
+\n int jYdArMvToAZe = 1; \n  while (jYdArMvToAZe < 10) { \n  jYdArMvToAZe *= 2; \n  if (jYdArMvToAZe > 5) break; \n } \n
+\n int jYdArMvToAZe = 0; \n  do { \n  jYdArMvToAZe++; \n  } \n  while (jYdArMvToAZe < 5 || jYdArMvToAZe > 10); \n
+\n int jYdArMvToAZe = 1; \n  for (int i = 0; \n  i < 10; \n  i++) { \n  if (i % 2 != 0) continue; \n  jYdArMvToAZe += i; \n } \n
+\n int jYdArMvToAZe = 5; \n  do { \n  jYdArMvToAZe--; \n  } \n  while (jYdArMvToAZe > 0 && jYdArMvToAZe < 10); \n
+\n int jYdArMvToAZe = 2; \n  if (jYdArMvToAZe == 2) { \n  jYdArMvToAZe = 3; \n  } \n  else if (jYdArMvToAZe == 3) { \n  jYdArMvToAZe = 4; \n  } \n  else { \n  jYdArMvToAZe = 5; \n } \n
+\n int cV6bN7mZ8n = 0; \n  while (cV6bN7mZ8n < 100) { \n  cV6bN7mZ8n += 10; \n  if (cV6bN7mZ8n > 50) break; \n } \n
+\n int vF5gT6hY7j = 1; \n  try { \n  vF5gT6hY7j = 1 / (vF5gT6hY7j - 1); \n  } \n  catch (Exception e) { \n  vF5gT6hY7j = 0; \n } \n
+\n int xS2dF3gH4j = 1; \n  for (int qW3eR4tY5u = 0; \n  qW3eR4tY5u < xS2dF3gH4j; \n  qW3eR4tY5u++) { \n  xS2dF3gH4j += qW3eR4tY5u; \n } \n
+\n int bN2mZ3nX4v = 10; \n  if (bN2mZ3nX4v > 15) { \n  bN2mZ3nX4v = 20; \n  } \n  else if (bN2mZ3nX4v > 10) { \n  bN2mZ3nX4v = 15; \n  } \n  else { \n  bN2mZ3nX4v = 5; \n  } \n
+\n int mN1bV2nC3m = 0; \n  do { \n  mN1bV2nC3m++; \n  if (mN1bV2nC3m == 5) break; \n  } \n  while (mN1bV2nC3m < 10); \n
+\n int lK8jH7gF6d = 2; \n  if (lK8jH7gF6d == 2) { \n  lK8jH7gF6d = 3; \n  } \n  else if (lK8jH7gF6d == 3) { \n  lK8jH7gF6d = 4; \n  } \n  else { \n  lK8jH7gF6d = 5; \n } \n
+\n int pO0iU9yT6r = 4; \n  try { \n  if (pO0iU9yT6r > 3) throw 2; \n  } \n  catch (int e) { \n  pO0iU9yT6r = e; \n } \n
+\n int oP0iU9yT6r = 1; \n  try { \n  if (oP0iU9yT6r == 1) throw 1; \n  } \n  catch (int e) { \n  oP0iU9yT6r = 0; \n } \n
+\n int vF3dB4nG5h = 15; \n  while (vF3dB4nG5h < 20) { \n  vF3dB4nG5h++; \n  if (vF3dB4nG5h == 18) continue; \n  } \n
+\n int uJ7iH8oL9p = 1; \n  try { \n  uJ7iH8oL9p = 1 / (uJ7iH8oL9p - 1); \n  } \n  catch (Exception e) { \n  uJ7iH8oL9p = 0; \n } \n
+\n int cV2bN3mZ4x = 0; \n  while (cV2bN3mZ4x < 10) { \n  cV2bN3mZ4x++; \n  if (cV2bN3mZ4x % 2 != 0) continue; \n  cV2bN3mZ4x += 2; \n } \n
+\n int xS3dF4gH5j = 1; \n  for (int qW3eR4tY7u = 0; \n  qW3eR4tY7u < 5; \n  qW3eR4tY7u++) { \n  xS3dF4gH5j *= 2; \n  if (xS3dF4gH5j > 10) break; \n } \n
+\n int wE2rT3yU4i = 5; \n  for (int aS1dF2gH3j = 0; \n  aS1dF2gH3j < wE2rT3yU4i; \n  aS1dF2gH3j++) { \n  if (aS1dF2gH3j == 3) continue; \n  wE2rT3yU4i--; \n  } \n
+\n int oP0iU9yT6r = 1; \n  try { \n  oP0iU9yT6r = 1 / 0; \n  } \n  catch (Exception e) { \n  oP0iU9yT6r = -1; \n } \n
+\n int cV2bN3mB4v = 1; \n  if (cV2bN3mB4v > 0) { \n  cV2bN3mB4v *= 2; \n  } \n  else { \n  cV2bN3mB4v /= 2; \n } \n
+\n int qW3eR4tY7u = 5; \n  while (qW3eR4tY7u < 10) { \n  qW3eR4tY7u++; \n  if (qW3eR4tY7u == 7) continue; \n  } \n
+\n int xS3dF4gH5j = 0; \n  try { \n  xS3dF4gH5j = 10 / xS3dF4gH5j; \n  } \n  catch (Exception e) { \n  xS3dF4gH5j = 1; \n } \n
+\n int pO9iU8yT7r = 2; \n  for (int aS1dF2gH3j = 0; \n  aS1dF2gH3j < pO9iU8yT7r; \n  aS1dF2gH3j++) { \n  pO9iU8yT7r += aS1dF2gH3j; \n } \n
+\n int mN2bV3cN4m = 0; \n  if (mN2bV3cN4m == 0) { \n  mN2bV3cN4m = 1; \n  } \n  else if (mN2bV3cN4m == 1) { \n  mN2bV3cN4m = 2; \n  } \n  else { \n  mN2bV3cN4m = 3; \n } \n
+\n int jYdArMvToAZe = 1; \n  do { \n  jYdArMvToAZe *= 2; \n  } \n  while (jYdArMvToAZe < 100 && jYdArMvToAZe > 0); \n
+\n int jYdArMvToAZe = 0; \n  for (int i = 0; \n  i < 5; \n  i++) { \n  for (int j = 0; \n  j < 5; \n  j++) { \n  jYdArMvToAZe += i * j; \n  } \n } \n
+\n int jYdArMvToAZe = 5; \n  do { \n  jYdArMvToAZe--; \n  } \n  while (jYdArMvToAZe > 0 && jYdArMvToAZe < 10); \n
+\n int bN1mZ2xW3c = 7; \n  if (bN1mZ2xW3c < 5) { \n  bN1mZ2xW3c++; \n  } \n  else { \n  bN1mZ2xW3c--; \n } \n
+\n int vF6gH7jK8l = 4; \n  try { \n  vF6gH7jK8l = 4 / 0; \n  } \n  catch (Exception e) { \n  vF6gH7jK8l = 0; \n } \n
+\n int lK8jU7hN6g = 20; \n  while (lK8jU7hN6g > 10) { \n  lK8jU7hN6g--; \n  if (lK8jU7hN6g == 15) break; \n } \n
+\n int qA2wS3eD4r = 15; \n  while (qA2wS3eD4r > 10) { \n  qA2wS3eD4r -= 2; \n  if (qA2wS3eD4r == 12) continue; \n  } \n
+\n int mN2bV3cN4m = 0; \n  if (mN2bV3cN4m == 0) { \n  mN2bV3cN4m = 1; \n  } \n  else if (mN2bV3cN4m == 1) { \n  mN2bV3cN4m = 0; \n } \n
+\n int xS3dF4gH5j = 3; \n  for (int cV2bN3mZ4x = 0; \n  cV2bN3mZ4x < xS3dF4gH5j; \n  cV2bN3mZ4x++) { \n  xS3dF4gH5j += cV2bN3mZ4x; \n } \n
+\n int xS3dF4gH5j = 10; \n  while (xS3dF4gH5j > 0) { \n  xS3dF4gH5j--; \n  if (xS3dF4gH5j == 5) continue; \n } \n
+\n int pO0iL9kN8j = 0; \n  try { \n  pO0iL9kN8j = 1 / 0; \n  } \n  catch (Exception e) { \n  pO0iL9kN8j = -1; \n  } \n  finally { \n  pO0iL9kN8j = 0; \n } \n
+\n int cV2bN3mZ4x = 1; \n  for (int aQ1wS2eD3f = 0; \n  aQ1wS2eD3f < cV2bN3mZ4x; \n  aQ1wS2eD3f++) { \n  cV2bN3mZ4x += aQ1wS2eD3f; \n } \n
+\n int zX9cC8vB7n = 5; \n  if (zX9cC8vB7n > 3) { \n  zX9cC8vB7n = 2; \n  } \n  else if (zX9cC8vB7n < 2) { \n  zX9cC8vB7n = 1; \n  } \n  else { \n  zX9cC8vB7n = 0; \n  } \n
+\n int mN2bV3nC4m = 0; \n  do { \n  mN2bV3nC4m++; \n  if (mN2bV3nC4m == 5) break; \n  } \n  while (mN2bV3nC4m < 10); \n
+\n int lK8jU7hN6g = 2; \n  if (lK8jU7hN6g == 2) { \n  lK8jU7hN6g = 3; \n  } \n  else if (lK8jU7hN6g == 3) { \n  lK8jU7hN6g = 4; \n  } \n  else { \n  lK8jU7hN6g = 5; \n } \n
+\n int d1e2=3,f3g4=4;\n for(int h5i6=0;h5i6<10;h5i6++){\n d1e2+=f3g4;\n f3g4-=d1e2;\n if(d1e2<0){\n break;\n }\n }\n
+\n int a1b2=0;\n for(int c3d4=0;c3d4<5;c3d4++){\n a1b2+=c3d4;\n if(a1b2>10){\n break;\n }\n }\n
+\n int g7h8=1;\n do{\n g7h8<<=1;\n if(g7h8>100){\n int i9j0=rand();\n g7h8-=i9j0;\n }\n }while(g7h8<1000);\n 
+\n for(int k1l2=0,m3n4=10;k1l2<m3n4;k1l2++,m3n4--){\n if(k1l2%3==0){\n m3n4/=2;\n }\n }\n 
+\n int q7r8=10,s9t0=20;\n while(q7r8<s9t0){\n q7r8+=s9t0%3;\n s9t0-=q7r8/2;\n if(s9t0<0){\n break;\n }\n }\n
+\n int u1v2=5;\n do{\n u1v2--;\n if(u1v2==0){\n continue;\n }\n u1v2*=2;\n }while(u1v2>0);\n 
+\n int w3x4=0;\n for(;w3x4<10;w3x4++){\n if(w3x4%4==0){\n int y5z6=w3x4 * 2;\n w3x4+=y5z6%5;\n }\n }\n 
+\n int c9d0=3,e1f2=1;\n while(c9d0--){\n e1f2<<=1;\n if(e1f2>16){\n c9d0=0;\n }\n }\n"
+\n int rT7k = 0; \n if (rT7k) { \n int xYz9w = rT7k + 5; \n } else { \n for (int mN3p = 0; mN3p < 10; mN3p++) { \n mN3p *= 2; \n } \n } \n
+\n int qWe4f = 15; \n while (qWe4f--) { \n int rT5q = qWe4f | 0xFF; \n if (rT5q == 0) { \n printf(\"%d\", rT5q); \n } \n } \n
+\n char *pQr7v = NULL; \n if (pQr7v != NULL) { \n *pQr7v = 'a'; \n } \n for (int jKl8u = 0; jKl8u < 5; jKl8u++) { \n jKl8u += jKl8u % 2; \n } \n
+\n int temp1s = 5; \n do { \n temp1s >>= 1; \n int temp2d = temp1s ^ 0x0F; \n } while (temp1s > 0); \n if (temp1s == 0) { \n temp1s = 10; \n } \n
+\n int unusedVar3 = 42; \n printf(\"Debug: %d\", unusedVar3); \n for (int lMn6g = 0; lMn6g < 3; lMn6g++) { \n lMn6g = (lMn6g << 2) + 1; \n } \n
+\n int aB1h = 5; \n aB1h = aB1h++ * (aB1h-- + (aB1h >> 1)); \n if (aB1h > 100) { \n int cD2j = aB1h / 0; \n } \n
+\n int zXc4k = 8; \n while (zXc4k) { \n zXc4k ^= 0x0F; \n if (zXc4k) { \n printf(\"%d\", zXc4k); \n } \n } \n
+\n int fGt7m = 0; \n for (int hJk9n = 0; hJk9n < 5; hJk9n++) { \n fGt7m += hJk9n << (fGt7m % 3); \n } \n if (fGt7m != 0) { \n fGt7m = 0; \n } \n
+\n int vBn3q = 100; \n if (vBn3q == 100) { \n vBn3q &= ~0x0F; \n } else { \n vBn3q |= 0xF0; \n } \n printf(\"%d\", vBn3q); \n
+\n char *dUm4r = NULL; \n if (dUm4r == NULL) { \n dUm4r = (char *)malloc(10); \n } \n free(dUm4r); \n
+\n int kLp5s = 7; \n while (kLp5s) { \n kLp5s = (kLp5s & 1) ? kLp5s / 2 : kLp5s * 3 + 1; \n } \n if (kLp5s) { \n kLp5s++; \n } \n
+\n int tRv6u = 0; \n do { \n tRv6u = (tRv6u << 1) + 1; \n } while (tRv6u < 10); \n printf(\"%d\", tRv6u); \n
+\n int wXy7v = 12; \n for (int pQs8w = 0; pQs8w < wXy7v; pQs8w++) { \n wXy7v -= (pQs8w % 2) ? 1 : 2; \n } \n if (wXy7v < 0) { \n wXy7v = 0; \n } \n
+\n int mLn9x = 20; \n if (mLn9x > 10) { \n mLn9x /= 2; \n } else { \n mLn9x *= 3; \n } \n mLn9x |= 0xA5; \n
+\n int bCf0y = 50; \n while (bCf0y > 0) { \n bCf0y -= (bCf0y % 3 == 0) ? 3 : 1; \n } \n printf(\"%d\", bCf0y); \n
+\n int uJk1z = 1; \n for (int eRt2a = 0; eRt2a < 4; eRt2a++) { \n uJk1z = (uJk1z << eRt2a) | (uJk1z >> (4 - eRt2a)); \n } \n if (uJk1z) { \n uJk1z = 0; \n } \n
+\n int oPv3b = 99; \n if (oPv3b % 2 == 0) { \n oPv3b++; \n } else { \n oPv3b--; \n } \n oPv3b ^= 0x55; \n
+\n int iKm4c = 0; \n do { \n iKm4c = (iKm4c + 1) * 2; \n } while (iKm4c < 100); \n if (iKm4c >= 100) { \n iKm4c = 0; \n } \n
+\n int sHn5d = 7; \n while (sHn5d) { \n sHn5d = (sHn5d & 1) ? sHn5d / 2 : sHn5d * 3 + 1; \n } \n printf(\"%d\", sHn5d); \n
+\n int yZp6e = 16; \n for (int tWq7f = 0; tWq7f < yZp6e; tWq7f++) { \n yZp6e -= tWq7f % 2; \n } \n if (yZp6e < 0) { \n yZp6e = 0; \n } \n
+\n int kL8=0,jF3=5; \n while(kL8<jF3) { \n kL8+=jF3--*2; \n if(kL8%3) { \n jF3^=0x0F; \n } \n } \n
+\n int pQ2=7,mN4=3; \n for(int zT9=0;zT9<5;zT9++) { \n pQ2=(mN4<<2)+(zT9%4); \n mN4^=pQ2; \n } \n
+\n int rV5=8,dW7=2; \n if(rV5>dW7) { \n dW7=((rV5|0xA5)*3)/dW7; \n } \n else { \n rV5<<=dW7; \n } \n
+\n int sX6=1,gH2=9; \n do { \n sX6=(gH2&0x1F)+sX6++; \n gH2-=2; \n } while(gH2>0); \n
+\n int tY4=4,qP8=6; \n if(tY4!=qP8) { \n tY4=(qP8^tY4)|0x0F; \n printf(\"%d\",tY4); \n } \n
+\n int uK3=5,bM1=7; \n for(int fR6=0;fR6<3;fR6++) { \n uK3+=bM1/(fR6+1); \n bM1=(bM1<<1)&0xFE; \n } \n
+\n int vJ7=2,cZ9=4; \n while(vJ7<cZ9) { \n cZ9=(vJ7 * 3)+0x10; \n vJ7=(cZ9>>2)++; \n } \n
+\n int wL1=3,eO6=8; \n if(wL1<eO6) { \n eO6=wL1^eO6; \n wL1|=0x0F; \n } \n else { \n eO6<<=wL1; \n } \n
+\n int xN5=9,yT2=1; \n for(int hQ4=0;hQ4<4;hQ4++) { \n xN5=(yT2 * 2)+(hQ4%2); \n yT2=(xN5&0xAA)^yT2; \n } \n
+\n int zB8=6,iV3=5; \n do { \n zB8=(iV3%3)+zB8--; \n iV3=(iV3|0x55)>>1; \n } while(zB8<10); \n
+\n int aA9=7,oC4=2; \n if(aA9!=NULL) { \n if(oC4==0) { \n aA9=oC4 * 3; \n } \n } \n
+\n int bC1=4,pL7=5; \n for(int dY8=0;dY8<2;dY8++) { \n bC1=(pL7&0xCC)+(dY8<<1); \n pL7=(bC1 * 2)%5; \n } \n
+\n int cF2=8,uR9=3; \n while(cF2>uR9) { \n uR9=(cF2/2)+0x10; \n cF2=(uR9^0xF0)<<1; \n } \n
+\n int dG5=9,mK6=1; \n if(dG5>0) { \n mK6=(dG5<<3)|0x0F; \n } \n else { \n dG5=mK6++; \n } \n
+\n int eS3=2,nX4=6; \n do { \n eS3=(nX4%4)+eS3++; \n nX4=(nX4>>1)&0x7F; \n } while(nX4>0); \n
+\n int fH7=5,tQ1=4; \n for(int lP8=0;lP8<3;lP8++) { \n fH7=(tQ1 * 3)+(lP8%2); \n tQ1=(fH7|0x55)^tQ1; \n } \n
+\n int gY6=7,rE2=9; \n if(gY6!=rE2) { \n rE2=((gY6&0x0F)<<4)/3; \n printf(\"%d\",rE2); \n } \n
+\n int hZ1=8,sO5=3; \n while(hZ1>sO5) { \n sO5=(hZ1 * 2)+0xAA; \n hZ1=(sO5>>3)++; \n } \n
+\n int iW4=6,vU7=2; \n if(iW4%2==0) { \n vU7=(iW4^0xFF)*3; \n } \n else { \n iW4=vU7<<2; \n } \n
+\n int jX9=1,kD3=5; \n for(int oB0=0;oB0<4;oB0++) { \n jX9=(kD3/(oB0+1))+jX9++; \n kD3=(kD3<<1)|0x0A; \n } \n
+\n int aB3=0, cD4=5; \n cD4 += aB3++; \n if (cD4) { \n for (int eF5=0; eF5<3; eF5++) { \n cD4 ^= eF5; } \n } \n else { \n printf("%d", aB3); } \n
+\n int xY7=5, zT9=3; \n while (zT9--) { \n xY7 = (xY7 << 1) | zT9; \n if (xY7 > 20) { \n printf("%d", zT9); } \n } \n
+\n int pQ2=10, rS4=2; \n rS4 *= pQ2--; \n if (pQ2 != NULL && pQ2 > 0) { \n for (int tU6=0; tU6<5; tU6++) { \n rS4 += tU6; } \n } \n
+\n int mN1=7, lO3=4; \n mN1 &= lO3 | 0xF; \n while (mN1--) { \n if (lO3 % 2) { \n printf("%d", mN1); } \n lO3 >>= 1; } \n
+\n int vW8=9, kX5=1; \n kX5 = vW8++ % 3; \n if (vW8) { \n do { \n kX5 ^= vW8; } while (kX5--); } \n else { \n printf("%d", kX5); } \n
+\n int gH6=8, jI9=6; \n jI9 = (gH6 << 2) + jI9; \n if (gH6 < 10) { \n for (int fE2=0; fE2<gH6; fE2++) { \n jI9 += fE2; } \n } \n
+\n int qR4=12, sT1=0; \n sT1 = qR4 / 3; \n while (qR4) { \n if (sT1) { \n qR4 -= sT1; } \n sT1 <<= 1; } \n printf("%d", sT1); \n
+\n int dF7=15, hG2=3; \n hG2 |= dF7 & 0x1F; \n if (dF7 != NULL || hG2) { \n for (int wV9=0; wV9<dF7; wV9++) { \n hG2 += wV9; } \n } \n
+\n int bC1=4, mL8=7; \n mL8 = (bC1++ << 3) | mL8; \n if (mL8 > 20) { \n printf("%d", bC1); } \n else { \n mL8 &= 0xFF; } \n
+\n int zK3=11, yJ7=2; \n yJ7 = zK3 ^ (yJ7 << 2); \n while (zK3--) { \n if (yJ7) { \n yJ7 += zK3; } \n } \n printf("%d", yJ7); \n
+\n int uP5=6, oL9=9; \n oL9 *= uP5 + 1; \n if (uP5 != NULL && oL9) { \n for (int rM2=0; rM2<oL9; rM2++) { \n uP5 += rM2 % 2; } \n } \n
+\n int eS8=5, tQ4=3; \n tQ4 = eS8++ * tQ4; \n do { \n eS8 -= tQ4 & 0x1; } while (tQ4 >>= 1); \n printf("%d", eS8); \n
+\n int iV6=10, cB2=4; \n cB2 = (iV6-- << 1) + cB2; \n if (cB2) { \n while (iV6) { \n cB2 ^= iV6--; } \n } \n else { \n printf("%d", iV6); } \n
+\n int fX1=7, nZ8=2; \n nZ8 = fX1 / nZ8 + 3; \n for (int kY9=0; kY9<fX1; kY9++) { \n nZ8 += kY9 | 0xA; } \n printf("%d", nZ8); \n
+\n int wA4=8, dU3=1; \n dU3 = wA4 << (dU3 + 1); \n if (wA4 != NULL) { \n do { \n dU3 += wA4--; } while (dU3 < 20); } \n
+\n int lO2=9, vE5=3; \n vE5 = (lO2++ % vE5) | 0x5; \n while (vE5) { \n if (lO2) { \n vE5 &= lO2; } \n lO2--; } \n
+\n int sT7=12, qH4=5; \n qH4 = sT7 ^ (qH4 << 3); \n for (int pM6=0; pM6<sT7; pM6++) { \n qH4 += pM6; \n if (qH4 > 50) { \n printf("%d", pM6); } \n } \n
+\n int rN9=4, jM1=6; \n jM1 = rN9 * (jM1 & 0xF); \n if (rN9 != NULL || jM1) { \n while (jM1--) { \n rN9 += jM1 % 3; } \n } \n
+\n int kF3=5, bD8=2; \n bD8 = kF3 << (bD8 + 1); \n do { \n kF3 += bD8 & 1; } while (bD8 >>= 1); \n printf("%d", kF3); \n
+\n int hL7=7, wQ2=3; \n wQ2 = hL7-- / wQ2 | 0x2; \n if (hL7) { \n for (int gP9=0; gP9<hL7; gP9++) { \n wQ2 ^= gP9; } \n } \n else { \n printf("%d", wQ2); } \n
+\n int zX2=0; \n if (p7Q3 != NULL) { \n if (p7Q3 == NULL) { \n int rT9=0; \n } \n } \n for (int kL4=0; kL4<10; kL4++) { \n int mN8=255 & zX2++; \n printf(\"Fake I/O %d\", mN8); \n } \n
+\n int aB3=5; \n while (aB3 > 0) { \n aB3 = (aB3-- ^ 0x0F) >> 1; \n } \n if (1) { \n char *cD4=NULL; \n if (cD4 == NULL) { \n printf(\"%d\", aB3); \n } \n } \n
+\n int eF5=0xAA; \n for (int gH7=0; gH7<5; gH7++) { \n eF5 |= (gH7 << 3); \n } \n if (eF5 != 0) { \n eF5 = (eF5 & 0x55) + 1; \n } else { \n eF5++; \n } \n
+\n char *jK9=NULL; \n if (jK9 == NULL || jK9 != NULL) { \n int lM1=0; \n while (lM1 < 100) { \n lM1 += (lM1 * 2) | 0x1; \n } \n } \n
+\n int nO2=7, pQ4=3; \n for (int rS6=0; rS6<10; rS6++) { \n nO2 = (nO2 / pQ4) ^ rS6; \n pQ4 = (pQ4 << 1) % 5; \n } \n printf(\"nO2=%d\", nO2); \n
+\n int tU8=0; \n do { \n tU8 = ((tU8 + 1) & 0x3) | (tU8 << 2); \n } while (tU8 < 20); \n if (tU8 > 10) { \n tU8 = ~tU8; \n } else { \n tU8 *= 2; \n } \n
+\n int vW0=42; \n for (int xY2=0; xY2<vW0; xY2++) { \n vW0 -= (xY2 % 2 == 0) ? 1 : 2; \n } \n if (vW0 == 0) { \n printf(\"vW0=%d\", vW0); \n } \n
+\n int zA1=99; \n while (zA1 > 50) { \n zA1 = (zA1 & 0x55) / 3; \n for (int bC3=0; bC3<3; bC3++) { \n zA1 ^= bC3; \n } \n } \n
+\n int dE5=0xFF; \n if (dE5 == 0xFF) { \n dE5 = (dE5 >> 4) + 0xA; \n } else if (dE5 > 0) { \n dE5 = ~dE5; \n } \n printf(\"%x\", dE5); \n
+\n int fG7=123; \n for (int hI9=0; hI9<5; hI9++) { \n fG7 = (fG7 + hI9) * (fG7 - hI9); \n } \n if (fG7 != 0) { \n fG7 = 0; \n } \n
+\n char *jK8=NULL; \n if (jK8 == NULL) { \n jK8 = NULL; \n } \n for (int lM0=0; lM0<10; lM0++) { \n printf(\"jK8=%p\", jK8); \n } \n
+\n int nN1=0; \n do { \n nN1 = (nN1 << 1) + 1; \n } while (nN1 < 100); \n if (nN1 & 1) { \n nN1 = nN1 ^ 0xDEAD; \n } \n
+\n int oP3=10; \n while (oP3--) { \n oP3 = (oP3 | 0xF0) & 0x0F; \n } \n if (oP3 == 0) { \n printf(\"oP3=%d\", oP3); \n } \n
+\n int qR5=100; \n for (int sT7=0; sT7<5; sT7++) { \n qR5 += (sT7 * sT7) - qR5; \n } \n if (qR5 != 0) { \n qR5 = 0; \n } \n
+\n int uV9=256; \n do { \n uV9 = uV9 >> 1; \n uV9 = uV9 | (uV9 << 1); \n } while (uV9 > 1); \n printf(\"%d\", uV9); \n
+\n int wX1=0; \n if (wX1 == 0) { \n wX1 = (wX1 + 1) * 2; \n } else { \n wX1 = (wX1 / 3) - 1; \n } \n while (wX1 < 10) { \n wX1++; \n } \n
+\n int yZ3=8; \n for (int aA4=0; aA4<yZ3; aA4++) { \n yZ3 = yZ3 ^ (aA4 << (yZ3 % 4)); \n } \n if (yZ3 & 0x80000000) { \n yZ3 = 0; \n } \n
+\n int bB6=0xCC; \n while (bB6 > 0) { \n bB6 = (bB6 & 0x33) | ((bB6 & 0xCC) >> 2); \n } \n printf(\"0x%x\", bB6); \n
+\n int cC8=9; \n if (cC8 < 10) { \n cC8 = (cC8 << 3) + 5; \n } else { \n cC8 = (cC8 >> 3) - 5; \n } \n for (int dD0=0; dD0<2; dD0++) { \n cC8 += dD0; \n } \n
+\n int eE2=1000; \n do { \n eE2 = eE2 / 2; \n eE2 = eE2 | (eE2 * 2); \n } while (eE2 > 1); \n if (eE2 == 0) { \n eE2 = -1; \n } \n
+\n int yZz0=1, aAa1=2; \n for (int bBb2=0; bBb2<3; bBb2++) { \n yZz0 <<= aAa1; \n aAa1 = ~yZz0; \n } \n if (yZz0) { \n int* cCc3 = NULL; \n while (cCc3 == NULL) { \n printf(\"dead\"); \n } \n } \n } \n
+\n int hHh8=7, iIi9=3; \n while (iIi9 < hHh8) { \n hHh8 -= iIi9; \n iIi9 = (hHh8 & 0x0F) + 1; \n } \n if (iIi9) { \n int* jJj0 = NULL; \n for (int kKk1=0; kKk1<2; kKk1++) { \n jJj0 = &hHh8; \n } \n } \n } \n
+\n int lLl2=9, mMm3=4; \n for (int nNn4=0; nNn4<3; nNn4++) { \n mMm3 += lLl2 << nNn4; \n lLl2 = mMm3 % 5; \n } \n int* oOo5 = NULL; \n if (oOo5) { \n printf(\"%d\", lLl2); \n } \n } \n
+\n int pPp6=5, qQq7=10; \n do { \n qQq7 = pPp6 * 2; \n pPp6 = qQq7 ^ 0xA5; \n } while (pPp6 < 20); \n if (qQq7) { \n int* rRr8 = NULL; \n while (rRr8 == NULL) { \n rRr8 = &pPp6; \n } \n } \n } \n
+\n int wWw3=6, xXx4=2; \n while (xXx4 < wWw3) { \n wWw3 /= xXx4; \n xXx4 = wWw3 | 0x1F; \n } \n int* yYy5 = NULL; \n for (int zZz6=0; zZz6<3; zZz6++) { \n yYy5 = &xXx4; \n } \n } \n
+\n int aAa7=11, bBb8=7; \n do { \n bBb8 = aAa7 & 0x7F; \n aAa7 = bBb8 << 1; \n } while (aAa7 > 0); \n if (bBb8) { \n int* cCc9 = NULL; \n while (cCc9 == NULL) { \n printf(\"%d\", aAa7); \n } \n } \n } \n
+\n int dDd0=4, eEe1=8; \n for (int fFf2=0; fFf2<3; fFf2++) { \n eEe1 += dDd0 * fFf2; \n dDd0 = eEe1 % 5; \n } \n int* gGg3 = NULL; \n if (gGg3) { \n printf(\"fake\"); \n } \n } \n
+\n int hHh4=5, iIi5=10; \n while (iIi5 > hHh4) { \n hHh4 = (iIi5-- << 1) ^ 0x0A; \n } \n if (hHh4) { \n int* jJj6 = NULL; \n for (int kKk7=0; kKk7<2; kKk7++) { \n jJj6 = &iIi5; \n } \n } \n } \n
+\n int a1b2=0; \n if (a1b2) { \n for (int x3y4=0; x3y4<10; x3y4++) { \n x3y4 += (a1b2 << 2) | 0x1F; \n } \n } else { \n printf(\"Dummy: %d\", a1b2); \n } \n
+\n char *c3d4=NULL; \n if (c3d4 == NULL && c3d4 != NULL) { \n c3d4 = (char*)malloc(10); \n free(c3d4); \n } \n
+\n int e5f6=7, g7h8=3; \n while (e5f6--) { \n g7h8 ^= e5f6 % 2; \n if (g7h8) { \n e5f6 += g7h8 << 1; \n } \n } \n
+\n int i9j0=5; \n do { \n i9j0 = (i9j0 * 3 + 1) & 0xFF; \n } while (i9j0 != 0); \n
+\n int k1l2=0; \n for (int m3n4=0; m3n4<5; m3n4++) { \n k1l2 += m3n4 << (m3n4 % 4); \n } \n printf(\"Unused: %d\", k1l2); \n
+\n int o5p6=10, q7r8=2; \n if (o5p6 > q7r8) { \n q7r8 = o5p6 / q7r8; \n if (q7r8) { \n o5p6 *= q7r8 + 1; \n } \n } \n
+\n int s9t0=3, u1v2=4; \n s9t0 |= u1v2 << 3; \n u1v2 &= s9t0 >> 1; \n if (s9t0) { \n u1v2 ^= 0x0F; \n } \n
+\n char *w3x4=NULL; \n if (w3x4 == NULL) { \n w3x4 = (char*)calloc(1,10); \n if (w3x4 != NULL) { \n memset(w3x4, 0, 10); \n } \n } \n
+\n int y5z6=15; \n while (y5z6 > 0) { \n y5z6 = (y5z6 & 0x0F) + 1; \n } \n
+\n int a7b8=0, c9d0=5; \n for (int e1f2=0; e1f2<c9d0; e1f2++) { \n a7b8 += e1f2 * (c9d0--); \n } \n
+\n int g3h4=100; \n if (g3h4) { \n g3h4 = (g3h4 << 2) / 3; \n printf(\"Result: %d\", g3h4); \n } \n
+\n int i5j6=0x0F, k7l8=0xF0; \n i5j6 = (i5j6 ^ k7l8) | (i5j6 & k7l8); \n k7l8 = ~i5j6; \n
+\n int m9n0=10, o1p2=2; \n while (m9n0--) { \n o1p2 = (o1p2 + m9n0) % 5; \n } \n
+\n char *q3r4=NULL; \n q3r4 = realloc(q3r4, 20); \n if (q3r4) { \n free(q3r4); \n q3r4 = NULL; \n } \n
+\n int s5t6=7; \n do { \n s5t6 = (s5t6 << 1) + 1; \n } while (s5t6 < 50); \n
+\n int u7v8=0, w9x0=3; \n for (int y1z2=0; y1z2<w9x0; y1z2++) { \n u7v8 += y1z2 * (w9x0 << y1z2); \n } \n
+\n int a3b4=5; \n if (a3b4 % 2 == 0) { \n a3b4++; \n } else { \n a3b4--; \n } \n
+\n int c5d6=0xFF; \n c5d6 = (c5d6 >> 4) & 0x0F; \n if (c5d6) { \n c5d6 |= 0xF0; \n } \n
+\n int e7f8=10; \n while (e7f8 > 0) { \n e7f8 = e7f8 / 2 - 1; \n } \n
+\n char *g9h0=NULL; \n if (g9h0 == NULL) { \n g9h0 = (char*)malloc(1); \n if (g9h0) { \n *g9h0 = '\\0'; \n } \n } \n
+\n for (int aL9x=0; aL9x<5; aL9x++) { \n for (int bM2y=0; bM2y<3; bM2y++) { \n printf(\"%d\", uK3z); \n uK3z += (aL9x | bM2y); \n } \n } \n
+\n for (int jK4u=0; jK4u<5; jK4u++) { \n sum += jK4u * jK4u; \n printf(\"Sum: %d\", sum); \n } \n
