@@ -315,6 +315,7 @@ if __name__ == '__main__':
         #     model_LazyLoader = hub.load('./universal-sentence-encoder')
         from sentence_transformers import SentenceTransformer
 
+        '''universal-sentence-encoder is too large'''
         embedder = SentenceTransformer('bert-base-nli-stsb-mean-tokens')
 
     for id, example in enumerate(examples):
