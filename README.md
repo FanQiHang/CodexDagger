@@ -1,13 +1,17 @@
-# CodexDagger
+# Code
 
-The attack for CodeT5-base is detailed in **./Vul_detection/DiverseVul/pipeline.sh**, which includes methods such as CodexDagger (proxy model: CodeT5-base-M), Random, Textfooler, and LSH.
+The attack for CodeT5-base is detailed in **./Vul_detection/DiverseVul/pipeline.sh**, which includes methods such as
+CodexDagger (proxy model: CodeT5-base-M), Random, Textfooler, and LSH.
 
+Before initiating the attacks, you need to prepare the datasets and pre-trained models, where the DiverseVul dataset is
+sourced from https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view?usp=sharing and the PrimeVul dataset
+is sourced from https://drive.google.com/drive/folders/1cznxGme5o6A_9tT8T47JUh3MPEpRYiKK.
 
-Before initiating the attacks, you need to prepare the datasets and pre-trained models, where the DiverseVul dataset is sourced from https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view?usp=sharing and the PrimeVul dataset is sourced from https://drive.google.com/drive/folders/1cznxGme5o6A_9tT8T47JUh3MPEpRYiKK.
+Please place the downloaded datasets into folders **./Vul_detection/DiverseVul/dataset** and **
+./Vul_detection/PrimeVul/dataset**, respectively.
 
-Please place the downloaded datasets into folders **./Vul_detection/DiverseVul/dataset** and **./Vul_detection/PrimeVul/dataset**, respectively.
-
-Please download the pre-trained models from the corresponding links into the respective folders. The mapping between the models and folders is shown in the table below.
+Please download the pre-trained models from the corresponding links into the respective folders. The mapping between the
+models and folders is shown in the table below.
 
 | Folders                    | Links to Pre-trained Models |
 |----------------------------|----------------------------------|
@@ -34,8 +38,11 @@ The reference code repository is shown in the table below.
 | Baseline (Random,Textfooler and LSH) | https://github.com/ZZR0/CodeAttack                               |
 | Baseline (ALERT)                     | https://github.com/soarsmu/attack-pretrain-models-of-code                               |
 
-Please note that before running the LSH method, you need to download the attention model to **./Vul_detection/DiverseVul/attention_models/yelp**. For details on the download procedure, see https://github.com/RishabhMaheshwary/query-attack.
+Please note that before running the LSH method, you need to download the attention model to **
+./Vul_detection/DiverseVul/attention_models/yelp**. For details on the download procedure,
+see https://github.com/RishabhMaheshwary/query-attack.
 
-The Qwen3-30B-A3B-Instruct-2507 model inference requires transformers>=4.51.0; please create a separate virtual environment.
+The Qwen3-30B-A3B-Instruct-2507 model inference requires transformers>=4.51.0; please create a separate virtual
+environment.
 
 

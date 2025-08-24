@@ -37,6 +37,12 @@ python a_embeddings_save_ori.py --attack_model codet5-base-multi
 # attacking proxy model
 python -u location_get_gradients_augment_contrastive.py  --model_size same --model codet5-base-multi --victim_model codet5-base --sample_num 20 --sample_codebleu_budget 0.6 --codebleu_budget 0.4 --round 10 --top_k 5 --candidate_k 50 --random_k 100 --ngram 8 --ot contrastive --dis l2 --decision contrastive --complex 0 --strategy name_code --temperature 1.0 --alpha 1.0 --loss_name kl --is_sample_20 yes --alpha_ce 0.0 --beta 1.0 --gamma 1.0
 
+# ''--model_size large --model codet5-small --victim_model codet5-small'' means proxy model: CodeT5-small-L and target model: CodeT5-small
+# python -u location_get_gradients_augment_contrastive.py  --model_size large --model codet5-small --victim_model codet5-small --sample_num 20 --sample_codebleu_budget 0.6 --codebleu_budget 0.4 --round 10 --top_k 5 --candidate_k 50 --random_k 100 --ngram 8 --ot contrastive --dis l2 --decision contrastive --complex 0 --strategy name_code --temperature 1.0 --alpha 1.0 --loss_name kl --is_sample_20 yes --alpha_ce 0.0 --beta 1.0 --gamma 1.0
+
+# ''--model_size small --model codet5-small --victim_model codet5-small'' means proxy model: CodeT5-small-S and target model: CodeT5-small
+# python -u location_get_gradients_augment_contrastive.py  --model_size large --model codet5-small --victim_model codet5-small --sample_num 20 --sample_codebleu_budget 0.6 --codebleu_budget 0.4 --round 10 --top_k 5 --candidate_k 50 --random_k 100 --ngram 8 --ot contrastive --dis l2 --decision contrastive --complex 0 --strategy name_code --temperature 1.0 --alpha 1.0 --loss_name kl --is_sample_20 yes --alpha_ce 0.0 --beta 1.0 --gamma 1.0
+
 # attacking target model (transfer attack)
 python -u distillation_transfer_attack_augment.py --model_size same --attack_model codet5-base-multi --victim_model codet5-base --sample_num 20 --sample_codebleu_budget 0.6 --codebleu_budget 0.4 --round 10 --top_k 5 --candidate_k 50 --random_k 100 --ngram 8 --ot contrastive --dis l2 --decision contrastive --complex 0 --strategy name_code --temperature 1.0 --alpha 1.0 --loss_name kl --is_sample_20 yes --alpha_ce 0.0 --beta 1.0 --gamma 1.0
 
