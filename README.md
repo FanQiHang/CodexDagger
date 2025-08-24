@@ -1,7 +1,6 @@
 # Code
 
-The attack for CodeT5-base is detailed in **./Vul_detection/DiverseVul/pipeline.sh**, which includes methods such as
-CodexDagger (proxy model: CodeT5-base-M), Random, Textfooler, and LSH.
+The attack pipeline for CodeT5-base is outlined in **./Vul_detection/DiverseVul/pipeline.sh**, encompassing methods including CodexDagger (proxy model: CodeT5-base-M), Random, TextFooler, and LSH.
 
 Before initiating the attacks, you need to prepare the datasets and pre-trained models, where the DiverseVul dataset is
 sourced from https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view?usp=sharing and the PrimeVul dataset
